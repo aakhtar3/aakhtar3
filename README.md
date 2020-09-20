@@ -8,4 +8,6 @@
 - 📫 How to reach me: ... [ayyazakhtar.com](https://ayyazakhtar.com)
 - ⚡ Fun fact: ...
 
-![](https://img.shields.io/badge/Code-node.js-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-node.js-informational?style=flat&logo=node.js&logoColor=white&color=2bbc8a)
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=aakhtar3&theme=dracula"/>
