@@ -66,7 +66,3 @@
 </td><td width="55%">
     <img src="https://github-readme-stats.vercel.app/api?username=aakhtar3&theme=dark&show_icons=true&cache_seconds=86400"/>
 </td></tr></table>
-
-Contact
-
-<img src="https://github-readme-linkedin.vercel.app/user?username=/ayyaz-a-88844749"/>
