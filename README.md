@@ -5,12 +5,22 @@
 <td valign="top" width="33%">
     <h2 align="center">🕺 whoami 🕺</h2>
     <p align="center">
-        I am a Software Architect.
+        👨‍💻 Software Architect 👨‍💻
+        </br>
+        📍 NYC 📍
+        </br>
+        💼 Disney Streaming 💼
+        </br>
+        🧘‍♂️ Yogi 🧘‍♂️
+        </br>
+        📸 Photographer 📸
+        </br>
+        🎮 Gamer 🎮
     </p>
 </td>
 <td valign="top" width="33%">
     <!-- Skills -->
-    <h2 align="center">🛠 My Toolbox 🛠</h2>
+    <h2 align="center">🛠 Toolbox 🛠</h2>
     <!-- Adobe -->
     <p align="center">
         <img alt="Photoshop" src="https://img.shields.io/badge/Photoshop-black?&logo=adobe-photoshop&color=151515&logoColor=79ff97">
@@ -50,7 +60,7 @@
     </p>
 </td>
 <td valign="top" width="33%">
-    <h2 align="center">🕺 Recent Activity 🕺</h2>
+    <h2 align="center">👾 Recent Activity 👾</h2>
     <p align="center">
         I am a Software Architect.
     </p>
@@ -58,7 +68,7 @@
 </tr></table>
 
 <!-- Working on -->
-<h2 align="center">💻 My Current Contributions 💻</h2>
+<h2 align="center">💻 Current Work 💻</h2>
 <table><tr>
 <td width="50%">
     <a href="https://github.com/disneystreaming/automated-cloud-advisor">
@@ -72,7 +82,7 @@
 </td>
 </tr></table>
 
-<h2 align="center">👾 My Stats 👾</h2>
+<h2 align="center">📊 Stats 📊</h2>
 
 <table><tr>
 <td width="40%">
