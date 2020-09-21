@@ -53,7 +53,7 @@
 </tr></table>
 
 <!-- Working on -->
-<h2 align="center">💻 Currently Working On 💻</h2>
+<h2 align="center">💻 My Current Contributions 💻</h2>
 
 <p align="center">
     <a href="https://github.com/disneystreaming/automated-cloud-advisor">
@@ -64,7 +64,7 @@
     </a>
 </p>
 
-<h2 align="center">👾 Stats 👾</h2>
+<h2 align="center">👾 My Stats 👾</h2>
 
 <table><tr><td width="40%">
     <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aakhtar3&langs_count=8&theme=dark&cache_seconds=86400&layout=compact&hide=jupyter notebook">
