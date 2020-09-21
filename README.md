@@ -8,7 +8,7 @@
         I am a Software Architect.
     </p>
 </td>
-<td valign="top" width="34%">
+<td valign="top" width="35%">
     <!-- Skills -->
     <h2 align="center">🛠 My Toolbox 🛠</h2>
     <!-- Adobe -->
