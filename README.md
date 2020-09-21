@@ -1,16 +1,6 @@
-### Hi there 👋
+### Hi there <img src="https://raw.githubusercontent.com/aakhtar3/aakhtar3/main/img/wave.gif" width="30px">
 
-<!-- Working on -->
-<h2 align="center">💻 Currently Working On 💻</h2>
 
-<p align="center">
-    <a href="https://github.com/disneystreaming/automated-cloud-advisor">
-        <img alt="Build" src="https://github-readme-stats.vercel.app/api/pin/?username=disneystreaming&repo=automated-cloud-advisor&theme=dark&cache_seconds=86400)">
-    </a>
-    <a href="https://github.com/donnemartin/awesome-aws">
-        <img alt="Build" src="https://github-readme-stats.vercel.app/api/pin/?username=donnemartin&repo=awesome-aws&theme=dark&cache_seconds=86400)">
-    </a>
-</p>
 
 <!-- Skills -->
 <h2 align="center">🛠 My Toolbox 🛠</h2>
@@ -56,6 +46,18 @@
     <img alt="NewRelic" src="https://img.shields.io/badge/DevOps-New_Relic-informational?&logo=new-relic&color=151515&logoColor=79ff97">
     <img alt="Datadog" src="https://img.shields.io/badge/DevOps-Datadog-informational?&logo=datadog&color=151515&logoColor=79ff97">
     <img alt="ELK" src="https://img.shields.io/badge/DevOps-ELK-informational?&logo=elastic-stack&color=151515&logoColor=79ff97">
+</p>
+
+<!-- Working on -->
+<h2 align="center">💻 Currently Working On 💻</h2>
+
+<p align="center">
+    <a href="https://github.com/disneystreaming/automated-cloud-advisor">
+        <img alt="Build" src="https://github-readme-stats.vercel.app/api/pin/?username=disneystreaming&repo=automated-cloud-advisor&theme=dark&cache_seconds=86400)">
+    </a>
+    <a href="https://github.com/donnemartin/awesome-aws">
+        <img alt="Build" src="https://github-readme-stats.vercel.app/api/pin/?username=donnemartin&repo=awesome-aws&theme=dark&cache_seconds=86400)">
+    </a>
 </p>
 
 <h2 align="center">👾 Level Up 👾</h2>
