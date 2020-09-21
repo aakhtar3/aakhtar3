@@ -70,6 +70,19 @@
 <td valign="top" width="33%">
     <h2 align="center">👾 Recent Activity 👾</h2>
     <p align="center">
+        <ul>
+            <li>Test -----</li>
+            <li>Test -----</li>
+            <li>Test -----</li>
+            <li>Test -----</li>
+            <li>Test -----</li>
+            <li>Test -----</li>
+            <li>Test -----</li>
+            <li>Test -----</li>
+            <li>Test -----</li>
+            <li>Test -----</li>
+            <li>Test -----</li>
+        </ul>
     </p>
 </td>
 </tr></table>
