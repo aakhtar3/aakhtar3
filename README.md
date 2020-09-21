@@ -1,11 +1,10 @@
 <!-- Hello -->
 <h2 align="center"><img src="https://raw.githubusercontent.com/aakhtar3/aakhtar3/main/img/wave.gif" width="30px"> Hello <img align="center" src="https://visitor-badge.glitch.me/badge?page_id=aakhtar3.aakhtar3"/> <img src="https://raw.githubusercontent.com/aakhtar3/aakhtar3/main/img/wave.gif" width="30px"></h2>
 
-
 <table><tr><td valign="top" width="55%">
-    <h2 align="center">🕺 Whoami 🕺</h2>
-    <p>
-        I am
+    <h2 align="center">🕺 whoami 🕺</h2>
+    <p align="center">
+        I am a Software Architect.
     </p>
 </td><td width="45%">
     <!-- Skills -->
@@ -29,19 +28,16 @@
         <img alt="Java" src="https://img.shields.io/badge/Java-black?&logo=java&color=151515&logoColor=79ff97">
         <img alt="Groovy" src="https://img.shields.io/badge/Groovy-black?&logo=groovy&color=151515&logoColor=79ff97">
         <img alt="Python" src="https://img.shields.io/badge/Python-black?&logo=python&color=151515&logoColor=79ff97">
-        <img alt="Ruby" src="https://img.shields.io/badge/Ruby-black?&logo=ruby&color=151515&logoColor=79ff97">
     </p>
     <!-- Data -->
     <p align="center">
         <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-black?&logo=postgresql&color=151515&logoColor=79ff97">
         <img alt="Redis" src="https://img.shields.io/badge/Redis-black?&logo=redis&color=151515&logoColor=79ff97">
-        <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-black?&logo=mongodb&color=151515&logoColor=79ff97">
         <img alt="ElasticSearch" src="https://img.shields.io/badge/ElasticSearch-black?&logo=elastic&color=151515&logoColor=79ff97">
     </p>
     <!-- DevOps -->
     <p align="center">
         <img alt="Docker" src="https://img.shields.io/badge/Docker-black?&logo=docker&color=151515&logoColor=79ff97">
-        <img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-black?&logo=jenkins&color=151515&logoColor=79ff97">
         <img alt="NewRelic" src="https://img.shields.io/badge/New_Relic-black?&logo=new-relic&color=151515&logoColor=79ff97">
         <img alt="Datadog" src="https://img.shields.io/badge/Datadog-black?&logo=datadog&color=151515&logoColor=79ff97">
         <img alt="ELK" src="https://img.shields.io/badge/ELK-black?&logo=elastic-stack&color=151515&logoColor=79ff97">
