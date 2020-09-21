@@ -17,9 +17,9 @@
         </br>
         ✈️ Traveler ✈️
         </br>
-        📸 Photographer 📸
-        </br>
         💾 Technologist 💾
+        </br>
+        📸 Photographer 📸
         </br>
         💼 Disney Streaming 💼
         </br>
