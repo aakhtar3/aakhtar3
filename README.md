@@ -43,7 +43,7 @@
         <img alt="ElasticSearch" src="https://img.shields.io/badge/ElasticSearch-black?&logo=elastic&color=151515&logoColor=79ff97">
     </p>
 </td>
-<td valign="top" width="30%">
+<td valign="top" width="60%">
     <h2 align="center">😈 whoami 😈</h2>
     <p align="center">
         📍 NYC 📍
