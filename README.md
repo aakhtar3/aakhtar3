@@ -2,31 +2,7 @@
 <h2 align="center"><img src="https://raw.githubusercontent.com/aakhtar3/aakhtar3/main/img/wave.gif" width="30px"> Hello <img align="center" src="https://visitor-badge.glitch.me/badge?page_id=aakhtar3.aakhtar3"/> <img src="https://raw.githubusercontent.com/aakhtar3/aakhtar3/main/img/wave.gif" width="30px"></h2>
 
 <table><tr>
-<td valign="top" width="50%">
-    <h2 align="center">😈 whoami 😈</h2>
-    <p align="center">
-        📍 NYC 📍
-        </br>
-        🧘‍♂️ Yogi 🧘‍♂️
-        </br>
-        🎮 Gamer 🎮
-        </br>
-        🕺 Dancer 🕺
-        </br>
-        🧙‍♂️ Wizard 🧙‍♂️
-        </br>
-        ✈️ Traveler ✈️
-        </br>
-        💾 <a href="https://dev.to/aakhtar3">Technologist</a> 💾
-        </br>
-        📸 <a href="https://www.instagram.com/a2zfashion/">Photographer</a> 📸
-        </br>
-        💼 <a href="https://github.com/disneystreaming">Disney Streaming</a> 💼
-        </br>
-        👨‍💻 <a href="https://ayyazakhtar.com">Software Architect</a> 👨‍💻
-    </p>
-</td>
-<td valign="top" width="50%">
+<td valign="top" width="70%">
     <!-- Skills -->
     <h2 align="center">🛠 Toolbox 🛠</h2>
     <!-- Adobe -->
@@ -65,6 +41,30 @@
         <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-black?&logo=postgresql&color=151515&logoColor=79ff97">
         <img alt="Redis" src="https://img.shields.io/badge/Redis-black?&logo=redis&color=151515&logoColor=79ff97">
         <img alt="ElasticSearch" src="https://img.shields.io/badge/ElasticSearch-black?&logo=elastic&color=151515&logoColor=79ff97">
+    </p>
+</td>
+<td valign="top" width="30%">
+    <h2 align="center">😈 whoami 😈</h2>
+    <p align="center">
+        📍 NYC 📍
+        </br>
+        🧘‍♂️ Yogi 🧘‍♂️
+        </br>
+        🎮 Gamer 🎮
+        </br>
+        🕺 Dancer 🕺
+        </br>
+        🧙‍♂️ Wizard 🧙‍♂️
+        </br>
+        ✈️ Traveler ✈️
+        </br>
+        💾 <a href="https://dev.to/aakhtar3">Technologist</a> 💾
+        </br>
+        📸 <a href="https://www.instagram.com/a2zfashion/">Photographer</a> 📸
+        </br>
+        💼 <a href="https://github.com/disneystreaming">Disney Streaming</a> 💼
+        </br>
+        👨‍💻 <a href="https://ayyazakhtar.com">Software Architect</a> 👨‍💻
     </p>
 </td>
 <!-- <td valign="top" width="33%">
