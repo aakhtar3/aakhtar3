@@ -3,7 +3,7 @@
 
 
 <table><tr><td width="40%">
-    <h2 align="center">🕺 Whoami 🕺</h2>
+    <h2 valign="top" align="center">🕺 Whoami 🕺</h2>
     <p>
         I am
     </p>
