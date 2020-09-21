@@ -9,12 +9,6 @@
     </p>
 </td>
 <td valign="top" width="33%">
-    <h2 align="center">🕺 Recent Activity 🕺</h2>
-    <p align="center">
-        I am a Software Architect.
-    </p>
-</td>
-<td valign="top" width="33%">
     <!-- Skills -->
     <h2 align="center">🛠 My Toolbox 🛠</h2>
     <!-- Adobe -->
@@ -47,6 +41,12 @@
         <img alt="Docker" src="https://img.shields.io/badge/Docker-black?&logo=docker&color=151515&logoColor=79ff97">
         <img alt="NewRelic" src="https://img.shields.io/badge/New_Relic-black?&logo=new-relic&color=151515&logoColor=79ff97">
         <img alt="Datadog" src="https://img.shields.io/badge/Datadog-black?&logo=datadog&color=151515&logoColor=79ff97">
+    </p>
+</td>
+<td valign="top" width="33%">
+    <h2 align="center">🕺 Recent Activity 🕺</h2>
+    <p align="center">
+        I am a Software Architect.
     </p>
 </td>
 </tr></table>
