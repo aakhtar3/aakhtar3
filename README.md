@@ -2,12 +2,12 @@
 <h2 align="center"><img src="https://raw.githubusercontent.com/aakhtar3/aakhtar3/main/img/wave.gif" width="30px"> Hello <img align="center" src="https://visitor-badge.glitch.me/badge?page_id=aakhtar3.aakhtar3"/> <img src="https://raw.githubusercontent.com/aakhtar3/aakhtar3/main/img/wave.gif" width="30px"></h2>
 
 
-<table><tr><td valign="top" width="40%">
+<table><tr><td valign="top" width="50%">
     <h2 align="center">🕺 Whoami 🕺</h2>
     <p>
         I am
     </p>
-</td><td width="60%">
+</td><td width="50%">
     <!-- Skills -->
     <h2 align="center">🛠 My Toolbox 🛠</h2>
     <!-- Adobe -->
@@ -40,7 +40,6 @@
     </p>
     <!-- DevOps -->
     <p align="center">
-        <img alt="AWS" src="https://img.shields.io/badge/AWS-black?&logo=amazon-aws&color=151515&logoColor=79ff97">
         <img alt="Docker" src="https://img.shields.io/badge/Docker-black?&logo=docker&color=151515&logoColor=79ff97">
         <img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-black?&logo=jenkins&color=151515&logoColor=79ff97">
         <img alt="NewRelic" src="https://img.shields.io/badge/New_Relic-black?&logo=new-relic&color=151515&logoColor=79ff97">
