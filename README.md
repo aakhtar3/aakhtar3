@@ -5,7 +5,7 @@
 <h2 align="center">🛠 Toolbox 🛠</h2>
 <!-- Adobe -->
 <p align="center">
-    <img alt="Photoshop" src="https://img.shields.io/badge/Photoshop-black?logo=adobe-photoshop&logoColor=79ff97">
+    <img alt="Photoshop" src="https://img.shields.io/badge/Photoshop-black?&logo=adobe-photoshop&color=151515&logoColor=79ff97">
     <img alt="Lightroom" src="https://img.shields.io/badge/Lightroom-black?&logo=adobe-lightroom-cc&color=151515&logoColor=79ff97">
     <img alt="Illustrator" src="https://img.shields.io/badge/Illustrator-black?&logo=adobe-illustrator&color=151515&logoColor=79ff97">
 </p>
