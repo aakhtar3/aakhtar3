@@ -52,15 +52,17 @@
 
 <p align="center">
     <a href="https://github.com/disneystreaming/automated-cloud-advisor">
-        <img alt="Build" src="https://github-readme-stats.vercel.app/api/pin/?username=disneystreaming&repo=automated-cloud-advisor&theme=dark&cache_seconds=86400)">
+        <img alt="Build" src="https://github-readme-stats.vercel.app/api/pin/?username=disneystreaming&repo=automated-cloud-advisor&theme=dark&cache_seconds=86400">
     </a>
     <a href="https://github.com/donnemartin/awesome-aws">
-        <img alt="Build" src="https://github-readme-stats.vercel.app/api/pin/?username=donnemartin&repo=awesome-aws&theme=dark&cache_seconds=86400)">
+        <img alt="Build" src="https://github-readme-stats.vercel.app/api/pin/?username=donnemartin&repo=awesome-aws&theme=dark&cache_seconds=86400">
     </a>
 </p>
 
 <h2 align="center">👾 Level Up 👾</h2>
 
 <p align="center">
+    <a href="https://github.com/aakhtar3/github-readme-stats">
+        <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aakhtar3&langs_count=4&theme=dark&cache_seconds=86400">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=aakhtar3&theme=dark&show_icons=true&cache_seconds=86400"/>
 </p>
