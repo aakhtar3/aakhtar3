@@ -11,9 +11,9 @@
 ![](https://img.shields.io/badge/Web-CSS-informational?&logo=css3&color=151515&logoColor=79ff97)
 ![](https://img.shields.io/badge/Web-React.js-informational?&logo=react&color=151515&logoColor=79ff97)
 ![](https://img.shields.io/badge/Web-Angular.js-informational?&logo=angular&color=151515&logoColor=79ff97)
-![](https://img.shields.io/badge/Web-Node.js-informational?&logo=node.js&color=151515&logoColor=79ff97)
 ![](https://img.shields.io/badge/Web-Meteor.js-informational?&logo=meteor&color=151515&logoColor=79ff97)
 
+![](https://img.shields.io/badge/App-Node.js-informational?&logo=node.js&color=151515&logoColor=79ff97)
 ![](https://img.shields.io/badge/App-Java-informational?&logo=java&color=151515&logoColor=79ff97)
 ![](https://img.shields.io/badge/App-Scala-informational?&logo=scala&color=151515&logoColor=79ff97)
 ![](https://img.shields.io/badge/App-Groovy-informational?&logo=groovy&color=151515&logoColor=79ff97)
