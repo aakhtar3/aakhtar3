@@ -17,11 +17,11 @@
         </br>
         ✈️ Traveler ✈️
         </br>
-        💾 <a herf="https://dev.to/aakhtar3">Technologist</a> 💾
+        💾 <a href="https://dev.to/aakhtar3">Technologist</a> 💾
         </br>
-        📸 <a herf="https://www.instagram.com/a2zfashion/">Photographer</a> 📸
+        📸 <a href="https://www.instagram.com/a2zfashion/">Photographer</a> 📸
         </br>
-        💼 <a herf="https://github.com/disneystreaming">Disney Streaming</a> 💼
+        💼 <a href="https://github.com/disneystreaming">Disney Streaming</a> 💼
         </br>
         👨‍💻 <a href="https://ayyazakhtar.com">Software Architect</a> 👨‍💻
     </p>
