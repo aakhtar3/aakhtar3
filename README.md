@@ -76,18 +76,20 @@
 
 <!-- Working on -->
 <h2 align="center">💻 Current Work 💻</h2>
-<table><tr>
-<td width="50%">
-    <a href="https://github.com/disneystreaming/automated-cloud-advisor">
-        <img alt="Build" src="https://github-readme-stats.vercel.app/api/pin/?username=disneystreaming&repo=automated-cloud-advisor&theme=dark&cache_seconds=43200">
-    </a>
-</td>
-<td width="50%">
-    <a href="https://github.com/donnemartin/awesome-aws">
-        <img alt="Build" src="https://github-readme-stats.vercel.app/api/pin/?username=donnemartin&repo=awesome-aws&theme=dark&cache_seconds=86400">
-    </a>
-</td>
-</tr></table>
+<!-- <table><tr>
+<td width="50%"> -->
+<p align="center">
+<a href="https://github.com/disneystreaming/automated-cloud-advisor">
+    <img alt="Build" src="https://github-readme-stats.vercel.app/api/pin/?username=disneystreaming&repo=automated-cloud-advisor&theme=dark&cache_seconds=43200">
+</a>
+<!-- </td>
+<td width="50%"> -->
+<a href="https://github.com/donnemartin/awesome-aws">
+    <img alt="Build" src="https://github-readme-stats.vercel.app/api/pin/?username=donnemartin&repo=awesome-aws&theme=dark&cache_seconds=86400">
+</a>
+</p>
+<!-- </td>
+</tr></table> -->
 
 <h2 align="center">📊 Stats 📊</h2>
 
