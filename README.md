@@ -3,19 +3,27 @@
 
 <table><tr>
 <td valign="top" width="33%">
-    <h2 align="center">🕺 whoami 🕺</h2>
+    <h2 align="center">😈 whoami 😈</h2>
     <p align="center">
-        👨‍💻 Software Architect 👨‍💻
-        </br>
         📍 NYC 📍
-        </br>
-        💼 Disney Streaming 💼
         </br>
         🧘‍♂️ Yogi 🧘‍♂️
         </br>
+        🎮 Gamer 🎮
+        </br>
+        🕺 Dancer 🕺
+        </br>
+        🧙‍♂️ Wizard 🧙‍♂️
+        </br>
+        ✈️ Traveler ✈️
+        </br>
         📸 Photographer 📸
         </br>
-        🎮 Gamer 🎮
+        💾 Technologist 💾
+        </br>
+        💼 Disney Streaming 💼
+        </br>
+        👨‍💻 Software Architect 👨‍💻
     </p>
 </td>
 <td valign="top" width="33%">
