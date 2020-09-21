@@ -5,46 +5,46 @@
 <h2 align="center">🛠 Toolbox 🛠</h2>
 <!-- Adobe -->
 <p align="center">
-    <img alt="Photoshop" src="https://img.shields.io/badge/Photoshop-informational?&logo=adobe-photoshop&color=151515&logoColor=79ff97&style=for-the-badge">
-    <img alt="Lightroom" src="https://img.shields.io/badge/Lightroom-informational?&logo=adobe-lightroom-cc&color=151515&logoColor=79ff97&style=for-the-badge">
-    <img alt="Illustrator" src="https://img.shields.io/badge/Illustrator-informational?&logo=adobe-illustrator&color=151515&logoColor=79ff97&style=for-the-badge">
+    <img alt="Photoshop" src="https://img.shields.io/badge/Photoshop-black?logo=adobe-photoshop&logoColor=79ff97">
+    <img alt="Lightroom" src="https://img.shields.io/badge/Lightroom-black?&logo=adobe-lightroom-cc&color=151515&logoColor=79ff97">
+    <img alt="Illustrator" src="https://img.shields.io/badge/Illustrator-black?&logo=adobe-illustrator&color=151515&logoColor=79ff97">
 </p>
 <!-- Web -->
 <p align="center">
-    <img alt="HTML" src="https://img.shields.io/badge/HTML-informational?&logo=html5&color=151515&logoColor=79ff97&style=for-the-badge">
-    <img alt="CSS" src="https://img.shields.io/badge/CSS-informational?&logo=css3&color=151515&logoColor=79ff97&style=for-the-badge">
-    <img alt="React" src="https://img.shields.io/badge/React.js-informational?&logo=react&color=151515&logoColor=79ff97&style=for-the-badge">
-    <img alt="Angular" src="https://img.shields.io/badge/Angular.js-informational?&logo=angular&color=151515&logoColor=79ff97&style=for-the-badge">
-    <img alt="Meteor" src="https://img.shields.io/badge/Meteor.js-informational?&logo=meteor&color=151515&logoColor=79ff97&style=for-the-badge">
+    <img alt="HTML" src="https://img.shields.io/badge/HTML-black?&logo=html5&color=151515&logoColor=79ff97">
+    <img alt="CSS" src="https://img.shields.io/badge/CSS-black?&logo=css3&color=151515&logoColor=79ff97">
+    <img alt="React" src="https://img.shields.io/badge/React.js-black?&logo=react&color=151515&logoColor=79ff97">
+    <img alt="Angular" src="https://img.shields.io/badge/Angular.js-black?&logo=angular&color=151515&logoColor=79ff97">
+    <img alt="Meteor" src="https://img.shields.io/badge/Meteor.js-black?&logo=meteor&color=151515&logoColor=79ff97">
 </p>
 <!-- App -->
 <p align="center">
-    <img alt="Node" src="https://img.shields.io/badge/Node.js-informational?&logo=node.js&color=151515&logoColor=79ff97&style=for-the-badge">
-    <img alt="Java" src="https://img.shields.io/badge/Java-informational?&logo=java&color=151515&logoColor=79ff97&style=for-the-badge">
-    <img alt="Scala" src="https://img.shields.io/badge/Scala-informational?&logo=scala&color=151515&logoColor=79ff97&style=for-the-badge">
-    <img alt="Groovy" src="https://img.shields.io/badge/Groovy-informational?&logo=groovy&color=151515&logoColor=79ff97&style=for-the-badge">
-    <img alt="Python" src="https://img.shields.io/badge/Python-informational?&logo=python&color=151515&logoColor=79ff97&style=for-the-badge">
-    <img alt="Ruby" src="https://img.shields.io/badge/Ruby-informational?&logo=ruby&color=151515&logoColor=79ff97&style=for-the-badge">
-    <img alt="PHP" src="https://img.shields.io/badge/PHP-informational?&logo=php&color=151515&logoColor=79ff97&style=for-the-badge">
+    <img alt="Node" src="https://img.shields.io/badge/Node.js-black?&logo=node.js&color=151515&logoColor=79ff97">
+    <img alt="Java" src="https://img.shields.io/badge/Java-black?&logo=java&color=151515&logoColor=79ff97">
+    <img alt="Scala" src="https://img.shields.io/badge/Scala-black?&logo=scala&color=151515&logoColor=79ff97">
+    <img alt="Groovy" src="https://img.shields.io/badge/Groovy-black?&logo=groovy&color=151515&logoColor=79ff97">
+    <img alt="Python" src="https://img.shields.io/badge/Python-black?&logo=python&color=151515&logoColor=79ff97">
+    <img alt="Ruby" src="https://img.shields.io/badge/Ruby-black?&logo=ruby&color=151515&logoColor=79ff97">
+    <img alt="PHP" src="https://img.shields.io/badge/PHP-black?&logo=php&color=151515&logoColor=79ff97">
 </p>
 <!-- Data -->
 <p align="center">
-    <img alt="MySQL" src="https://img.shields.io/badge/MySQL-informational?&logo=mysql&color=151515&logoColor=79ff97&style=for-the-badge">
-    <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-informational?&logo=postgresql&color=151515&logoColor=79ff97&style=for-the-badge">
-    <img alt="Redis" src="https://img.shields.io/badge/Redis-informational?&logo=redis&color=151515&logoColor=79ff97&style=for-the-badge">
-    <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-informational?&logo=mongodb&color=151515&logoColor=79ff97&style=for-the-badge">
-    <img alt="ElasticSearch" src="https://img.shields.io/badge/ElasticSearch-informational?&logo=elastic&color=151515&logoColor=79ff97&style=for-the-badge">
-    <img alt="Neo4j" src="https://img.shields.io/badge/Neo4j-informational?&logo=neo4j&color=151515&logoColor=79ff97&style=for-the-badge">
+    <img alt="MySQL" src="https://img.shields.io/badge/MySQL-black?&logo=mysql&color=151515&logoColor=79ff97">
+    <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-black?&logo=postgresql&color=151515&logoColor=79ff97">
+    <img alt="Redis" src="https://img.shields.io/badge/Redis-black?&logo=redis&color=151515&logoColor=79ff97">
+    <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-black?&logo=mongodb&color=151515&logoColor=79ff97">
+    <img alt="ElasticSearch" src="https://img.shields.io/badge/ElasticSearch-black?&logo=elastic&color=151515&logoColor=79ff97">
+    <img alt="Neo4j" src="https://img.shields.io/badge/Neo4j-black?&logo=neo4j&color=151515&logoColor=79ff97">
 </p>
 <!-- DevOps -->
 <p align="center">
-    <img alt="AWS" src="https://img.shields.io/badge/AWS-informational?&logo=amazon-aws&color=151515&logoColor=79ff97&style=for-the-badge">
-    <img alt="Docker" src="https://img.shields.io/badge/Docker-informational?&logo=docker&color=151515&logoColor=79ff97&style=for-the-badge">
-    <img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-informational?&logo=jenkins&color=151515&logoColor=79ff97&style=for-the-badge">
-    <img alt="Ansible" src="https://img.shields.io/badge/Ansible-informational?&logo=ansible&color=151515&logoColor=79ff97&style=for-the-badge">
-    <img alt="NewRelic" src="https://img.shields.io/badge/New_Relic-informational?&logo=new-relic&color=151515&logoColor=79ff97&style=for-the-badge">
-    <img alt="Datadog" src="https://img.shields.io/badge/Datadog-informational?&logo=datadog&color=151515&logoColor=79ff97&style=for-the-badge">
-    <img alt="ELK" src="https://img.shields.io/badge/ELK-informational?&logo=elastic-stack&color=151515&logoColor=79ff97&style=for-the-badge">
+    <img alt="AWS" src="https://img.shields.io/badge/AWS-black?&logo=amazon-aws&color=151515&logoColor=79ff97">
+    <img alt="Docker" src="https://img.shields.io/badge/Docker-black?&logo=docker&color=151515&logoColor=79ff97">
+    <img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-black?&logo=jenkins&color=151515&logoColor=79ff97">
+    <img alt="Ansible" src="https://img.shields.io/badge/Ansible-black?&logo=ansible&color=151515&logoColor=79ff97">
+    <img alt="NewRelic" src="https://img.shields.io/badge/New_Relic-black?&logo=new-relic&color=151515&logoColor=79ff97">
+    <img alt="Datadog" src="https://img.shields.io/badge/Datadog-black?&logo=datadog&color=151515&logoColor=79ff97">
+    <img alt="ELK" src="https://img.shields.io/badge/ELK-black?&logo=elastic-stack&color=151515&logoColor=79ff97">
 </p>
 
 <!-- Working on -->
@@ -59,10 +59,14 @@
     </a>
 </p>
 
-<h2 align="center">👾 Level Up 👾</h2>
+<h2 align="center">👾 Stats 👾</h2>
 
 <table><tr><td width="40%">
     <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aakhtar3&langs_count=8&theme=dark&cache_seconds=1&layout=compact&hide=jupyter notebook">
 </td><td width="55%">
     <img src="https://github-readme-stats.vercel.app/api?username=aakhtar3&theme=dark&show_icons=true&cache_seconds=86400"/>
 </td></tr></table>
+
+Contact
+
+<img src="https://github-readme-linkedin.vercel.app/user?username=/ayyaz-a-88844749"/>
