@@ -17,13 +17,13 @@
         </br>
         ✈️ Traveler ✈️
         </br>
-        💾 Technologist 💾
+        💾 <a herf="https://dev.to/aakhtar3">Technologist</a> 💾
         </br>
-        📸 Photographer 📸
+        📸 <a herf="https://www.instagram.com/a2zfashion/">Photographer</a> 📸
         </br>
-        💼 Disney Streaming 💼
+        💼 <a herf="https://github.com/disneystreaming">Disney Streaming</a> 💼
         </br>
-        👨‍💻 Software Architect 👨‍💻
+        👨‍💻 <a href="https://ayyazakhtar.com">Software Architect</a> 👨‍💻
     </p>
 </td>
 <td valign="top" width="33%">
