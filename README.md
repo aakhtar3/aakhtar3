@@ -70,7 +70,6 @@
 <td valign="top" width="33%">
     <h2 align="center">👾 Recent Activity 👾</h2>
     <p align="center">
-        I am a Software Architect.
     </p>
 </td>
 </tr></table>
