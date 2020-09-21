@@ -61,8 +61,7 @@
 
 <h2 align="center">👾 Level Up 👾</h2>
 
-<table><tr><td width="40%">
-    <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aakhtar3&langs_count=10&theme=dark&cache_seconds=86400&layout=compact">
-</td><td width="60%">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=aakhtar3&theme=dark&show_icons=true&cache_seconds=86400"/>
-</td></tr></table>
+<p align="center">
+    <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aakhtar3&langs_count=10&theme=dark&cache_seconds=86400&layout=compact&hide=jupyter notebook">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=aakhtar3&theme=dark&show_icons=true&cache_seconds=86400&line_height=27"/>
+</p>
