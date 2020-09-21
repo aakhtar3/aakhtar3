@@ -1,7 +1,7 @@
 <!-- Hello -->
 <h2 align="center"><img src="https://raw.githubusercontent.com/aakhtar3/aakhtar3/main/img/wave.gif" width="30px"> Hello <img align="center" src="https://visitor-badge.glitch.me/badge?page_id=aakhtar3.aakhtar3"/> <img src="https://raw.githubusercontent.com/aakhtar3/aakhtar3/main/img/wave.gif" width="30px"></h2>
 
-<table><tr>
+<table><tr width="100%">
 <td valign="top" width="33%">
     <h2 align="center">😈 whoami 😈</h2>
     <p align="center">
