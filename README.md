@@ -1,12 +1,12 @@
 <!-- Hello -->
 <h2 align="center"><img src="https://raw.githubusercontent.com/aakhtar3/aakhtar3/main/img/wave.gif" width="30px"> Hello <img align="center" src="https://visitor-badge.glitch.me/badge?page_id=aakhtar3.aakhtar3"/> <img src="https://raw.githubusercontent.com/aakhtar3/aakhtar3/main/img/wave.gif" width="30px"></h2>
 
-<table><tr><td valign="top" width="60%">
+<table><tr><td valign="top" width="65%">
     <h2 align="center">🕺 whoami 🕺</h2>
     <p align="center">
         I am a Software Architect.
     </p>
-</td><td width="40%">
+</td><td width="35%">
     <!-- Skills -->
     <h2 align="center">🛠 My Toolbox 🛠</h2>
     <!-- Adobe -->
