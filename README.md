@@ -20,7 +20,6 @@
         <img alt="HTML" src="https://img.shields.io/badge/HTML-black?&logo=html5&color=151515&logoColor=79ff97">
         <img alt="CSS" src="https://img.shields.io/badge/CSS-black?&logo=css3&color=151515&logoColor=79ff97">
         <img alt="React" src="https://img.shields.io/badge/React.js-black?&logo=react&color=151515&logoColor=79ff97">
-        <img alt="Angular" src="https://img.shields.io/badge/Angular.js-black?&logo=angular&color=151515&logoColor=79ff97">
     </p>
     <!-- App -->
     <p align="center">
@@ -40,7 +39,6 @@
         <img alt="Docker" src="https://img.shields.io/badge/Docker-black?&logo=docker&color=151515&logoColor=79ff97">
         <img alt="NewRelic" src="https://img.shields.io/badge/New_Relic-black?&logo=new-relic&color=151515&logoColor=79ff97">
         <img alt="Datadog" src="https://img.shields.io/badge/Datadog-black?&logo=datadog&color=151515&logoColor=79ff97">
-        <img alt="ELK" src="https://img.shields.io/badge/ELK-black?&logo=elastic-stack&color=151515&logoColor=79ff97">
     </p>
 </td></tr></table>
 
