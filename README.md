@@ -1,9 +1,8 @@
-### Hi there <img src="https://raw.githubusercontent.com/aakhtar3/aakhtar3/main/img/wave.gif" width="30px">
-
-
+<!-- Hello -->
+<h2 align="center"><img src="https://raw.githubusercontent.com/aakhtar3/aakhtar3/main/img/wave.gif" width="30px"> Hello <img src="https://raw.githubusercontent.com/aakhtar3/aakhtar3/main/img/wave.gif" width="30px"></h2>
 
 <!-- Skills -->
-<h2 align="center">🛠 My Toolbox 🛠</h2>
+<h2 align="center">🛠 Toolbox 🛠</h2>
 <!-- Adobe -->
 <p align="center">
     <img alt="Photoshop" src="https://img.shields.io/badge/Adobe-Photoshop-informational?&logo=adobe-photoshop&color=151515&logoColor=79ff97">
