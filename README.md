@@ -1,13 +1,15 @@
 <!-- Hello -->
 <h2 align="center"><img src="https://raw.githubusercontent.com/aakhtar3/aakhtar3/main/img/wave.gif" width="30px"> Hello <img align="center" src="https://visitor-badge.glitch.me/badge?page_id=aakhtar3.aakhtar3"/> <img src="https://raw.githubusercontent.com/aakhtar3/aakhtar3/main/img/wave.gif" width="30px"></h2>
 
-<!-- Skills -->
-<h2 align="center">🛠 Toolbox 🛠</h2>
-<!-- Adobe -->
+
+
 
 <table><tr><td width="40%">
     <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aakhtar3&langs_count=8&theme=dark&cache_seconds=1&layout=compact&hide=jupyter notebook">
 </td><td width="60%">
+<!-- Skills -->
+<h2 align="center">🛠 Toolbox 🛠</h2>
+    <!-- Adobe -->
     <p align="center">
         <img alt="Photoshop" src="https://img.shields.io/badge/Photoshop-black?&logo=adobe-photoshop&color=151515&logoColor=79ff97">
         <img alt="Lightroom" src="https://img.shields.io/badge/Lightroom-black?&logo=adobe-lightroom-cc&color=151515&logoColor=79ff97">
