@@ -2,19 +2,18 @@
 <h2 align="center"><img src="https://raw.githubusercontent.com/aakhtar3/aakhtar3/main/img/wave.gif" width="30px"> Hello <img align="center" src="https://visitor-badge.glitch.me/badge?page_id=aakhtar3.aakhtar3"/> <img src="https://raw.githubusercontent.com/aakhtar3/aakhtar3/main/img/wave.gif" width="30px"></h2>
 
 <table><tr>
-<td valign="top" width="32.5%">
+<td valign="top" width="33">
     <h2 align="center">🕺 whoami 🕺</h2>
     <p align="center">
         I am a Software Architect.
     </p>
 </td>
-<td valign="top" width="35%">
+<td valign="top" width="33%">
     <!-- Skills -->
     <h2 align="center">🛠 My Toolbox 🛠</h2>
     <!-- Adobe -->
     <p align="center">
         <img alt="Photoshop" src="https://img.shields.io/badge/Photoshop-black?&logo=adobe-photoshop&color=151515&logoColor=79ff97">
-        <img alt="Lightroom" src="https://img.shields.io/badge/Lightroom-black?&logo=adobe-lightroom-cc&color=151515&logoColor=79ff97">
         <img alt="Illustrator" src="https://img.shields.io/badge/Illustrator-black?&logo=adobe-illustrator&color=151515&logoColor=79ff97">
     </p>
     <!-- Web -->
@@ -44,7 +43,7 @@
         <img alt="Datadog" src="https://img.shields.io/badge/Datadog-black?&logo=datadog&color=151515&logoColor=79ff97">
     </p>
 </td>
-<td valign="top" width="32.5%">
+<td valign="top" width="33%">
     <h2 align="center">🕺 Recent Activity 🕺</h2>
     <p align="center">
         I am a Software Architect.
