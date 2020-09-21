@@ -4,48 +4,51 @@
 ## Technology & Tools
 
 ### Design
-![](https://img.shields.io/badge/Adobe-Photoshop-informational?style=flat&logo=adobe-photoshop&color=2bbc8a)
-![](https://img.shields.io/badge/Adobe-Illustrator-informational?style=flat&logo=adobe-illustrator&color=2bbc8a)
-![](https://img.shields.io/badge/Adobe-Lightroom-informational?style=flat&logo=adobe-lightroom-cc&color=2bbc8a)
+![](https://img.shields.io/badge/Adobe-Photoshop-informational?&logo=adobe-photoshop&color=151515&logoColor=79ff97)
+![](https://img.shields.io/badge/Adobe-Lightroom-informational?&logo=adobe-lightroom-cc&color=151515&logoColor=79ff97)
+![](https://img.shields.io/badge/Adobe-Illustrator-informational?&logo=adobe-illustrator&color=151515&logoColor=79ff97)
 
 ### Web
-![](https://img.shields.io/badge/code-HTML-informational?style=flat&logo=html5&color=2bbc8a)
-![](https://img.shields.io/badge/code-CSS-informational?style=flat&logo=css3&color=2bbc8a)
-![](https://img.shields.io/badge/code-PHP-informational?style=flat&logo=php&color=2bbc8a)
+![](https://img.shields.io/badge/Web-HTML-informational?&logo=html5&color=151515&logoColor=79ff97)
+![](https://img.shields.io/badge/Web-CSS-informational?&logo=css3&color=151515&logoColor=79ff97)
+![](https://img.shields.io/badge/Web-React.js-informational?&logo=react&color=151515&logoColor=79ff97)
+![](https://img.shields.io/badge/Web-Angular.js-informational?&logo=angular&color=151515&logoColor=79ff97)
+![](https://img.shields.io/badge/Web-Node.js-informational?&logo=node.js&color=151515&logoColor=79ff97)
+![](https://img.shields.io/badge/Web-Meteor.js-informational?&logo=meteor&color=151515&logoColor=79ff97)
 
-### JS
-![](https://img.shields.io/badge/code-Node-informational?style=flat&logo=node.js&color=2bbc8a)
-![](https://img.shields.io/badge/code-React-informational?style=flat&logo=react&color=2bbc8a)
-![](https://img.shields.io/badge/code-Angular-informational?style=flat&logo=angular&color=2bbc8a)
-![](https://img.shields.io/badge/code-Meteor-informational?style=flat&logo=meteor&color=2bbc8a)
+### App
+![](https://img.shields.io/badge/App-Java-informational?&logo=java&color=151515&logoColor=79ff97)
+![](https://img.shields.io/badge/App-Scala-informational?&logo=scala&color=151515&logoColor=79ff97)
+![](https://img.shields.io/badge/App-Groovy-informational?&logo=groovy&color=151515&logoColor=79ff97)
+![](https://img.shields.io/badge/App-PHP-informational?&logo=php&color=151515&logoColor=79ff97)
+![](https://img.shields.io/badge/App-Python-informational?&logo=python&color=151515&logoColor=79ff97)
+![](https://img.shields.io/badge/App-Ruby-informational?&logo=ruby&color=151515&logoColor=79ff97)
 
-### JVM
-![](https://img.shields.io/badge/code-Java-informational?style=flat&logo=java&color=2bbc8a)
-![](https://img.shields.io/badge/code-Scala-informational?style=flat&logo=scala&color=2bbc8a)
-![](https://img.shields.io/badge/code-Groovy-informational?style=flat&logo=groovy&color=2bbc8a)
-
-### Script
-![](https://img.shields.io/badge/code-Python-informational?style=flat&logo=python&color=2bbc8a)
-![](https://img.shields.io/badge/code-Ruby-informational?style=flat&logo=ruby&color=2bbc8a)
-
-### SQL
-![](https://img.shields.io/badge/sql-MySQL-informational?style=flat&logo=mysql&color=2bbc8a)
-![](https://img.shields.io/badge/sql-PostgreSQL-informational?style=flat&logo=postgresql&color=2bbc8a)
-![](https://img.shields.io/badge/sql-SQLite-informational?style=flat&logo=sqlite&color=2bbc8a)
-![](https://img.shields.io/badge/sql-Oracle-informational?style=flat&logo=oracle&color=2bbc8a)
-
-### NoSQL
-![](https://img.shields.io/badge/nosql-Redis-informational?style=flat&logo=redis&color=2bbc8a)
-![](https://img.shields.io/badge/nosql-MongoDB-informational?style=flat&logo=mongodb&color=2bbc8a)
-![](https://img.shields.io/badge/nosql-ElasticSearch-informational?style=flat&logo=elastic&color=2bbc8a)
-![](https://img.shields.io/badge/nosql-Neo4j-informational?style=flat&logo=neo4j&color=2bbc8a)
+### Data
+![](https://img.shields.io/badge/Data-MySQL-informational?&logo=mysql&color=151515&logoColor=79ff97)
+![](https://img.shields.io/badge/Data-PostgreSQL-informational?&logo=postgresql&color=151515&logoColor=79ff97)
+![](https://img.shields.io/badge/Data-Redis-informational?&logo=redis&color=151515&logoColor=79ff97)
+![](https://img.shields.io/badge/Data-MongoDB-informational?&logo=mongodb&color=151515&logoColor=79ff97)
+![](https://img.shields.io/badge/Data-ElasticSearch-informational?&logo=elastic&color=151515&logoColor=79ff97)
+![](https://img.shields.io/badge/Data-Neo4j-informational?&logo=neo4j&color=151515&logoColor=79ff97)
 
 ### DevOps
-![](https://img.shields.io/badge/devops-Docker-informational?style=flat&logo=docker&color=2bbc8a)
-![](https://img.shields.io/badge/devops-Jenkins-informational?style=flat&logo=jenkins&color=2bbc8a)
-![](https://img.shields.io/badge/devops-Ansible-informational?style=flat&logo=ansible&color=2bbc8a)
 
+![](https://img.shields.io/badge/DevOps-AWS-informational?&logo=amazon-aws&color=151515&logoColor=79ff97)
+![](https://img.shields.io/badge/DevOps-Docker-informational?&logo=docker&color=151515&logoColor=79ff97)
+![](https://img.shields.io/badge/DevOps-Jenkins-informational?&logo=jenkins&color=151515&logoColor=79ff97)
+![](https://img.shields.io/badge/DevOps-Ansible-informational?&logo=ansible&color=151515&logoColor=79ff97)
+![](https://img.shields.io/badge/DevOps-New_Relic-informational?&logo=new-relic&color=151515&logoColor=79ff97)
+![](https://img.shields.io/badge/DevOps-Datadog-informational?&logo=datadog&color=151515&logoColor=79ff97)
+![](https://img.shields.io/badge/DevOps-Elastic_Stack-informational?&logo=elastic-stack&color=151515&logoColor=79ff97)
 
 
 ## Stats
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=aakhtar3&theme=dracula"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=aakhtar3&theme=dark&show_icons=true&cache_seconds=86400"/>
+
+
+Currently Working on
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=disneystreaming&repo=automated-cloud-advisor&theme=dark&cache_seconds=86400)](https://github.com/disneystreaming/automated-cloud-advisor)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dark&cache_seconds=86400)](https://github.com/anuraghazra/github-readme-stats)
+
