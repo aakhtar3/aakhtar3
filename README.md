@@ -59,7 +59,7 @@
 
 <p align="center">
     <a href="https://github.com/disneystreaming/automated-cloud-advisor">
-        <img alt="Build" src="https://github-readme-stats.vercel.app/api/pin/?username=disneystreaming&repo=automated-cloud-advisor&theme=dark&cache_seconds=86400">
+        <img alt="Build" src="https://github-readme-stats.vercel.app/api/pin/?username=disneystreaming&repo=automated-cloud-advisor&theme=dark&cache_seconds=43200">
     </a>
     <a href="https://github.com/donnemartin/awesome-aws">
         <img alt="Build" src="https://github-readme-stats.vercel.app/api/pin/?username=donnemartin&repo=awesome-aws&theme=dark&cache_seconds=86400">
