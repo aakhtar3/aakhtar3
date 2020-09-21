@@ -42,6 +42,7 @@
     </p>
     <!-- DevOps -->
     <p align="center">
+        <img alt="AWS" src="https://img.shields.io/badge/AWS-black?&logo=amazon-aws&color=151515&logoColor=79ff97">
         <img alt="Docker" src="https://img.shields.io/badge/Docker-black?&logo=docker&color=151515&logoColor=79ff97">
         <img alt="NewRelic" src="https://img.shields.io/badge/New_Relic-black?&logo=new-relic&color=151515&logoColor=79ff97">
         <img alt="Datadog" src="https://img.shields.io/badge/Datadog-black?&logo=datadog&color=151515&logoColor=79ff97">
