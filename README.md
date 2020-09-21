@@ -11,7 +11,7 @@
     <p align="center">
         I am a Software Architect.
     </p>
-</td><td width="33%">
+</td><td width="34%">
     <!-- Skills -->
     <h2 align="center">🛠 My Toolbox 🛠</h2>
     <!-- Adobe -->
