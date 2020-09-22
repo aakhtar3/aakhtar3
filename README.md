@@ -74,7 +74,7 @@
 </td>
 <td valign="top" width="33%">
 -----------------------------------
-
+<h2 align="center">👾 Recent Activity 👾</h2>
 Test -----
 
 Test -----
