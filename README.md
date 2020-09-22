@@ -58,6 +58,7 @@
 <img alt="Ruby" src="https://img.shields.io/badge/Ruby-black?&logo=ruby&color=151515&logoColor=79ff97">
 <img alt="PHP" src="https://img.shields.io/badge/PHP-black?&logo=php&color=151515&logoColor=79ff97">
 <!-- Data -->
+<img alt="MySQL" src="https://img.shields.io/badge/MySQL-black?&logo=mysql&color=151515&logoColor=79ff97">
 <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-black?&logo=postgresql&color=151515&logoColor=79ff97">
 <img alt="Redis" src="https://img.shields.io/badge/Redis-black?&logo=redis&color=151515&logoColor=79ff97">
 <img alt="ElasticSearch" src="https://img.shields.io/badge/ElasticSearch-black?&logo=elastic&color=151515&logoColor=79ff97">
