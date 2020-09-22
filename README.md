@@ -34,7 +34,7 @@
 <!-- Adobe -->
 <img alt="Photoshop" src="https://img.shields.io/badge/Photoshop-black?&logo=adobe-photoshop&color=151515&logoColor=79ff97">
 <img alt="Illustrator" src="https://img.shields.io/badge/Illustrator-black?&logo=adobe-illustrator&color=151515&logoColor=79ff97">
-<img alt="Illustrator" src="https://img.shields.io/badge/Illustrator-black?&logo=adobe-illustrator&color=151515&logoColor=79ff97">
+<img alt="Lightroom" src="https://img.shields.io/badge/Lightroom-black?&logo=adobe-lightroom-cc&color=151515&logoColor=79ff97">
 <!-- Web -->
 <img alt="HTML" src="https://img.shields.io/badge/HTML-black?&logo=html5&color=151515&logoColor=79ff97">
 <img alt="CSS" src="https://img.shields.io/badge/CSS-black?&logo=css3&color=151515&logoColor=79ff97">
