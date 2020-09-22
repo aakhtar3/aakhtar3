@@ -73,11 +73,11 @@
 <h2 align="center">👾 Recent Activity 👾</h2>
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#101](https://github.com//disneystreaming/automated-cloud-advisor/issues/101) in [disneystreaming/automated-cloud-advisor](https://github.com//disneystreaming/automated-cloud-advisor)
+🗣 Commented on [#101](https://github.com//disneystreaming/automated-cloud-advisor/issues/101) in [disneystreaming/automated-cloud-advisor](https://github.com//disneystreaming/automated-cloud-advisor)
 
-2. 🎉 Merged PR [#101](https://github.com//disneystreaming/automated-cloud-advisor/pull/101) in [disneystreaming/automated-cloud-advisor](https://github.com//disneystreaming/automated-cloud-advisor)
+🎉 Merged PR [#101](https://github.com//disneystreaming/automated-cloud-advisor/pull/101) in [disneystreaming/automated-cloud-advisor](https://github.com//disneystreaming/automated-cloud-advisor)
 
-3. 💪 Opened PR [#101](https://github.com//disneystreaming/automated-cloud-advisor/pull/101) in [disneystreaming/automated-cloud-advisor](https://github.com//disneystreaming/automated-cloud-advisor)
+💪 Opened PR [#101](https://github.com//disneystreaming/automated-cloud-advisor/pull/101) in [disneystreaming/automated-cloud-advisor](https://github.com//disneystreaming/automated-cloud-advisor)
 <!--END_SECTION:activity-->
 </td>
 </tr></table>
