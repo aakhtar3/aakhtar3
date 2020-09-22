@@ -67,7 +67,6 @@
 <!-- OS -->
 <img alt="Linux" src="https://img.shields.io/badge/Linux-black?&logo=linux&color=151515&logoColor=79ff97">
 <img alt="Apple" src="https://img.shields.io/badge/OSX-black?&logo=apple&color=151515&logoColor=79ff97">
-<img alt="Windows" src="https://img.shields.io/badge/Windows-black?&logo=windows&color=151515&logoColor=79ff97">
 </td>
 </td>
 <td valign="top" width="33%">
