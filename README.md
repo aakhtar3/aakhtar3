@@ -33,7 +33,7 @@
 ------------------------------------
 
 <!-- Skills -->
-## 🛠 Toolbox 🛠</h2>
+## 🛠 Toolbox 🛠
 <!-- Adobe -->
 <img alt="Photoshop" src="https://img.shields.io/badge/Photoshop-black?&logo=adobe-photoshop&color=151515&logoColor=79ff97">
 <img alt="Illustrator" src="https://img.shields.io/badge/Illustrator-black?&logo=adobe-illustrator&color=151515&logoColor=79ff97">
