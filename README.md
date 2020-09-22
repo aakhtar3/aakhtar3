@@ -71,27 +71,11 @@
 </td>
 <td valign="top" width="33%">
 <h2 align="center">👾 Recent Activity 👾</h2>
-
--
-
--
-
--
-
--
-
--
-
--
-
--
-
--
-
--
+<!--START_SECTION:activity-->
 </td>
 </tr></table>
 
+<h2 align="center">💻 Current Contributions 💻</h2>
 <!-- Working on -->
 <table><tr>
 <td width="50%">
