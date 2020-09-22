@@ -11,17 +11,17 @@
     </br>
     🧘‍♂️ Yogi
     </br>
-    🎮 Gamer
+    💾 Techie
     </br>
     🕺 Dancer
+    </br>
+    🎮 Gamer
     </br>
     🧙‍♂️ Wizard
     </br>
     ✈️ Traveler
     </br>
-    💾 <a href="https://dev.to/aakhtar3">Blogger</a>
-    </br>
-    👨‍💻 <a href="https://ayyazakhtar.com">Architect</a>
+    👨‍💻 Architect</a>
 </p>
 </td>
 <!-- Skills -->
