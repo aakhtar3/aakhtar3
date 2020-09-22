@@ -5,73 +5,65 @@
 
 <table style="width:100%"><tr >
 <td valign="top" width="33%">
-    <h2 align="center">👾 Recent Activity 👾</h2>
-    Test -----
+Test -----
 
-    Test -----
+Test -----
 
-    Test -----
+Test -----
 
-    Test -----
+Test -----
 
-    Test -----
+Test -----
 
-    Test -----
+Test -----
 
-    Test -----
+Test -----
 
-    Test -----
+Test -----
 
-    Test -----
-
+Test -----
 </td>
-
 <td valign="top" width="34%">
-    <h2 align="center">👾 Recent Activity 👾</h2>
-    Test -----
+Test -----
 
-    Test -----
+Test -----
 
-    Test -----
+Test -----
 
-    Test -----
+Test -----
 
-    Test -----
+Test -----
 
-    Test -----
+Test -----
 
-    Test -----
+Test -----
 
-    Test -----
+Test -----
 
-    Test -----
-
+Test -----
 </td>
 <td valign="top" width="33%">
-    <h2 align="center">👾 Recent Activity 👾</h2>
-    Test -----
+Test -----
 
-    Test -----
+Test -----
 
-    Test -----
+Test -----
 
-    Test -----
+Test -----
 
-    Test -----
+Test -----
 
-    Test -----
+Test -----
 
-    Test -----
+Test -----
 
-    Test -----
+Test -----
 
-    Test -----
-
+Test -----
 </td>
 </tr></table>
 
 <!-- Working on -->
-<h2 align="center">💻 Current Work 💻</h2>
 <table><tr>
 <td width="50%">
     <a href="https://github.com/disneystreaming/automated-cloud-advisor">
