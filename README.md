@@ -4,7 +4,6 @@
 
 <table style="width:100%"><tr >
 <td valign="top" width="33%">
------------------------------------
 <h2 align="center">😈 whoami 😈</h2>
 
 <p align="center">
