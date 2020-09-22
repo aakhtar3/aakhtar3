@@ -7,7 +7,7 @@
 <td valign="top" width="33%">
 -----------------------------------
 
-## 😈 whoami
+<h2 align="center">😈 whoami 😈</h2>
 
 <p align="center">
     📍 NYC 📍
