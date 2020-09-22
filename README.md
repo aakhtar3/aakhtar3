@@ -9,25 +9,25 @@
 
 ### 😈 whoami
 
-📍 NYC 📍
+📍 NYC
 
-🧘‍♂️ Yogi 🧘‍♂️
+🧘‍♂️ Yogi
 
-🎮 Gamer 🎮
+🎮 Gamer
 
-🕺 Dancer 🕺
+🕺 Dancer
 
-🧙‍♂️ Wizard 🧙‍♂️
+🧙‍♂️ Wizard
 
-✈️ Traveler ✈️
+✈️ Traveler
 
-💾 <a href="https://dev.to/aakhtar3">Technologist</a> 💾
+💾 <a href="https://dev.to/aakhtar3">Technologist</a>
 
-📸 <a href="https://www.instagram.com/a2zfashion/">Photographer</a> 📸
+📸 <a href="https://www.instagram.com/a2zfashion/">Photographer</a>
 
-💼 <a href="https://github.com/disneystreaming">Disney Streaming</a> 💼
+💼 <a href="https://github.com/disneystreaming">Disney Streaming</a>
 
-👨‍💻 <a href="https://ayyazakhtar.com">Software Architect</a> 👨‍💻
+👨‍💻 <a href="https://ayyazakhtar.com">Software Architect</a>
 </td>
 <td valign="top" width="34%">
 ------------------------------------
