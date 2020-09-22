@@ -5,7 +5,7 @@
 
 <table style="width:100%"><tr >
 <td valign="top" width="33%">
-------------------------------------
+-----------------------------------
 
 Test -----
 
@@ -25,25 +25,49 @@ Test -----
 </td>
 <td valign="top" width="34%">
 ------------------------------------
-
-Test -----
-
-Test -----
-
-Test -----
-
-Test -----
-
-Test -----
-
-Test -----
-
-Test -----
-
-Test -----
+<!-- Skills -->
+<h2 align="center">🛠 Toolbox 🛠</h2>
+<!-- Adobe -->
+<p align="center">
+    <img alt="Photoshop" src="https://img.shields.io/badge/Photoshop-black?&logo=adobe-photoshop&color=151515&logoColor=79ff97">
+    <img alt="Illustrator" src="https://img.shields.io/badge/Illustrator-black?&logo=adobe-illustrator&color=151515&logoColor=79ff97">
+</p>
+<!-- DevOps -->
+<p align="center">
+    <img alt="AWS" src="https://img.shields.io/badge/AWS-black?&logo=amazon-aws&color=151515&logoColor=79ff97">
+    <img alt="Docker" src="https://img.shields.io/badge/Docker-black?&logo=docker&color=151515&logoColor=79ff97">
+    <img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-black?&logo=jenkins&color=151515&logoColor=79ff97">
+</p>
+<!-- Telemetry -->
+<p align="center">
+    <img alt="NewRelic" src="https://img.shields.io/badge/New_Relic-black?&logo=new-relic&color=151515&logoColor=79ff97">
+    <img alt="Datadog" src="https://img.shields.io/badge/Datadog-black?&logo=datadog&color=151515&logoColor=79ff97">
+    <img alt="ELK" src="https://img.shields.io/badge/ELK-black?&logo=elastic-stack&color=151515&logoColor=79ff97">
+</p>
+<!-- Web -->
+<p align="center">
+    <img alt="HTML" src="https://img.shields.io/badge/HTML-black?&logo=html5&color=151515&logoColor=79ff97">
+    <img alt="CSS" src="https://img.shields.io/badge/CSS-black?&logo=css3&color=151515&logoColor=79ff97">
+    <img alt="React" src="https://img.shields.io/badge/React-black?&logo=react&color=151515&logoColor=79ff97">
+    <img alt="Angular" src="https://img.shields.io/badge/Angular-black?&logo=angular&color=151515&logoColor=79ff97">
+</p>
+<!-- App -->
+<p align="center">
+    <img alt="Node" src="https://img.shields.io/badge/Node-black?&logo=node.js&color=151515&logoColor=79ff97">
+    <img alt="Java" src="https://img.shields.io/badge/Java-black?&logo=java&color=151515&logoColor=79ff97">
+    <img alt="Groovy" src="https://img.shields.io/badge/Groovy-black?&logo=groovy&color=151515&logoColor=79ff97">
+    <img alt="Python" src="https://img.shields.io/badge/Python-black?&logo=python&color=151515&logoColor=79ff97">
+</p>
+<!-- Data -->
+<p align="center">
+    <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-black?&logo=postgresql&color=151515&logoColor=79ff97">
+    <img alt="Redis" src="https://img.shields.io/badge/Redis-black?&logo=redis&color=151515&logoColor=79ff97">
+    <img alt="ElasticSearch" src="https://img.shields.io/badge/ElasticSearch-black?&logo=elastic&color=151515&logoColor=79ff97">
+</p>
+</td>
 </td>
 <td valign="top" width="33%">
-------------------------------------
+-----------------------------------
 
 Test -----
 
