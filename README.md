@@ -39,7 +39,6 @@
 <img alt="AWS" src="https://img.shields.io/badge/AWS-black?&logo=amazon-aws&color=151515&logoColor=79ff97">
 <img alt="Docker" src="https://img.shields.io/badge/Docker-black?&logo=docker&color=151515&logoColor=79ff97">
 <img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-black?&logo=jenkins&color=151515&logoColor=79ff97">
-<img alt="Ansible" src="https://img.shields.io/badge/Ansible-black?&logo=ansible&color=151515&logoColor=79ff97">
 <!-- Telemetry -->
 <img alt="ELK" src="https://img.shields.io/badge/ELK-black?&logo=elastic-stack&color=151515&logoColor=79ff97">
 <img alt="NewRelic" src="https://img.shields.io/badge/New_Relic-black?&logo=new-relic&color=151515&logoColor=79ff97">
