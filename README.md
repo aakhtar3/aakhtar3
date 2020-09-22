@@ -52,8 +52,8 @@
 <!-- Data -->
 <img alt="MySQL" src="https://img.shields.io/badge/MySQL-black?&logo=mysql&color=151515&logoColor=79ff97">
 <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-black?&logo=postgresql&color=151515&logoColor=79ff97">
+<img alt="Oracle" src="https://img.shields.io/badge/Oracle-black?&logo=oracle&color=151515&logoColor=79ff97">
 <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-black?&logo=mongodb&color=151515&logoColor=79ff97">
-<img alt="ElasticSearch" src="https://img.shields.io/badge/ElasticSearch-black?&logo=elastic&color=151515&logoColor=79ff97">
 <img alt="Redis" src="https://img.shields.io/badge/Redis-black?&logo=redis&color=151515&logoColor=79ff97">
 <img alt="Neo4j" src="https://img.shields.io/badge/Neo4j-black?&logo=neo4j&color=151515&logoColor=79ff97">
 <!-- DevOps -->
@@ -61,7 +61,7 @@
 <img alt="Docker" src="https://img.shields.io/badge/Docker-black?&logo=docker&color=151515&logoColor=79ff97">
 <img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-black?&logo=jenkins&color=151515&logoColor=79ff97">
 <!-- Telemetry -->
-<img alt="ELK" src="https://img.shields.io/badge/ELK-black?&logo=elastic-stack&color=151515&logoColor=79ff97">
+<img alt="ELK" src="https://img.shields.io/badge/ELK-black?&logo=kibana&color=151515&logoColor=79ff97">
 <img alt="NewRelic" src="https://img.shields.io/badge/New_Relic-black?&logo=new-relic&color=151515&logoColor=79ff97">
 <img alt="Datadog" src="https://img.shields.io/badge/Datadog-black?&logo=datadog&color=151515&logoColor=79ff97">
 <!-- OS -->
