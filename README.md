@@ -48,8 +48,7 @@
 <img alt="CSS" src="https://img.shields.io/badge/CSS-black?&logo=css3&color=151515&logoColor=79ff97">
 <img alt="React" src="https://img.shields.io/badge/React-black?&logo=react&color=151515&logoColor=79ff97">
 <img alt="Angular" src="https://img.shields.io/badge/Angular-black?&logo=angular&color=151515&logoColor=79ff97">
-<img alt="Angular" src="https://img.shields.io/badge/Angular.js-black?&logo=angular&color=151515&logoColor=79ff97">
-<img alt="Meteor" src="https://img.shields.io/badge/Meteor.js-black?&logo=meteor&color=151515&logoColor=79ff97">
+<img alt="Meteor" src="https://img.shields.io/badge/Meteor-black?&logo=meteor&color=151515&logoColor=79ff97">
 <!-- App -->
 <img alt="Node" src="https://img.shields.io/badge/Node-black?&logo=node.js&color=151515&logoColor=79ff97">
 <img alt="Python" src="https://img.shields.io/badge/Python-black?&logo=python&color=151515&logoColor=79ff97">
