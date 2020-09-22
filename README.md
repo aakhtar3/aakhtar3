@@ -30,7 +30,6 @@
 </td>
 <!-- Skills -->
 <td valign="top" width="34%">
-------------------------------------
 <h2 align="center">🛠 Toolbox 🛠</h2>
 <!-- Adobe -->
 <img alt="Photoshop" src="https://img.shields.io/badge/Photoshop-black?&logo=adobe-photoshop&color=151515&logoColor=79ff97">
@@ -65,8 +64,9 @@
 </td>
 </td>
 <td valign="top" width="33%">
------------------------------------
 <h2 align="center">👾 Recent Activity 👾</h2>
+
+Test -----
 
 Test -----
 
