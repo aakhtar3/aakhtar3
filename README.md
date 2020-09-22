@@ -7,25 +7,21 @@
 <h2 align="center">😈 whoami 😈</h2>
 
 <p align="center">
-    📍 NYC 📍
+    📍 NYC
     </br>
-    🧘‍♂️ Yogi 🧘‍♂️
+    🧘‍♂️ Yogi
     </br>
-    🎮 Gamer 🎮
+    🎮 Gamer
     </br>
-    🕺 Dancer 🕺
+    🕺 Dancer
     </br>
-    🧙‍♂️ Wizard 🧙‍♂️
+    🧙‍♂️ Wizard
     </br>
-    ✈️ Traveler ✈️
+    ✈️ Traveler
     </br>
-    💾 <a href="https://dev.to/aakhtar3">Technologist</a> 💾
+    💾 <a href="https://dev.to/aakhtar3">Blogger</a>
     </br>
-    📸 <a href="https://www.instagram.com/a2zfashion/">Photographer</a> 📸
-    </br>
-    💼 <a href="https://github.com/disneystreaming">Disney Streaming</a> 💼
-    </br>
-    👨‍💻 <a href="https://ayyazakhtar.com">Software Architect</a> 👨‍💻
+    👨‍💻 <a href="https://ayyazakhtar.com">Architect</a>
 </p>
 </td>
 <!-- Skills -->
@@ -69,19 +65,19 @@
 <img alt="Apple" src="https://img.shields.io/badge/OSX-black?&logo=apple&color=151515&logoColor=79ff97">
 </td>
 <td valign="top" width="33%">
-<h2 align="center">👾 Recent Activity 👾</h2>
+<h2 align="center">👾 Activity 👾</h2>
 <!--START_SECTION:activity-->
 
-🗣 Commented on [#101](https://github.com//disneystreaming/automated-cloud-advisor/issues/101) in [disneystreaming/automated-cloud-advisor](https://github.com//disneystreaming/automated-cloud-advisor)
+🗣 Posted on [#101](https://github.com//disneystreaming/automated-cloud-advisor/issues/101) in [automated-cloud-advisor](https://github.com//disneystreaming/automated-cloud-advisor)
 
-🎉 Merged PR [#101](https://github.com//disneystreaming/automated-cloud-advisor/pull/101) in [disneystreaming/automated-cloud-advisor](https://github.com//disneystreaming/automated-cloud-advisor)
+🎉 Merged PR [#101](https://github.com/disneystreaming/automated-cloud-advisor/pull/101) in [automated-cloud-advisor](https://github.com/disneystreaming/automated-cloud-advisor)
 
-💪 Opened PR [#101](https://github.com//disneystreaming/automated-cloud-advisor/pull/101) in [disneystreaming/automated-cloud-advisor](https://github.com//disneystreaming/automated-cloud-advisor)
+💪 Opened PR [#101](https://github.com/disneystreaming/automated-cloud-advisor/pull/101) in [automated-cloud-advisor](https://github.com/disneystreaming/automated-cloud-advisor)
 <!--END_SECTION:activity-->
 </td>
 </tr></table>
 
-<h2 align="center">💻 Current Contributions 💻</h2>
+<h2 align="center">💻 Working On 💻</h2>
 <!-- Working on -->
 <table><tr>
 <td width="50%">
