@@ -9,25 +9,27 @@
 
 ## 😈 whoami
 
-📍 NYC
-
-🧘‍♂️ Yogi
-
-🎮 Gamer
-
-🕺 Dancer
-
-🧙‍♂️ Wizard
-
-✈️ Traveler
-
-💾 <a href="https://dev.to/aakhtar3">Technologist</a>
-
-📸 <a href="https://www.instagram.com/a2zfashion/">Photographer</a>
-
-💼 <a href="https://github.com/disneystreaming">Disney Streaming</a>
-
-👨‍💻 <a href="https://ayyazakhtar.com">Software Architect</a>
+<p align="center">
+    📍 NYC 📍
+    </br>
+    🧘‍♂️ Yogi 🧘‍♂️
+    </br>
+    🎮 Gamer 🎮
+    </br>
+    🕺 Dancer 🕺
+    </br>
+    🧙‍♂️ Wizard 🧙‍♂️
+    </br>
+    ✈️ Traveler ✈️
+    </br>
+    💾 <a href="https://dev.to/aakhtar3">Technologist</a> 💾
+    </br>
+    📸 <a href="https://www.instagram.com/a2zfashion/">Photographer</a> 📸
+    </br>
+    💼 <a href="https://github.com/disneystreaming">Disney Streaming</a> 💼
+    </br>
+    👨‍💻 <a href="https://ayyazakhtar.com">Software Architect</a> 👨‍💻
+</p>
 </td>
 <td valign="top" width="34%">
 ------------------------------------
