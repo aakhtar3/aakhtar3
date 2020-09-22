@@ -52,6 +52,7 @@
 <!-- Data -->
 <img alt="MySQL" src="https://img.shields.io/badge/MySQL-black?&logo=mysql&color=151515&logoColor=79ff97">
 <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-black?&logo=postgresql&color=151515&logoColor=79ff97">
+<img alt="Oracle" src="https://img.shields.io/badge/Oracle-black?&logo=oracle&color=151515&logoColor=79ff97">
 <img alt="ElasticSearch" src="https://img.shields.io/badge/ElasticSearch-black?&logo=elastic&color=151515&logoColor=79ff97">
 <img alt="Redis" src="https://img.shields.io/badge/Redis-black?&logo=redis&color=151515&logoColor=79ff97">
 <img alt="Neo4j" src="https://img.shields.io/badge/Neo4j-black?&logo=neo4j&color=151515&logoColor=79ff97">
