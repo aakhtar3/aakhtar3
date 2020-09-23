@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <!-- Hello -->
-<h2 align="center"><img src="https://raw.githubusercontent.com/aakhtar3/aakhtar3/main/img/wave.gif" width="30px"> Hello <img align="center" src="https://visitor-badge.glitch.me/badge?page_id=aakhtar3.aakhtar3"/> <img src="https://raw.githubusercontent.com/aakhtar3/aakhtar3/main/img/wave.gif" width="30px"></h2>
+<h2 align="center"><img src="https://raw.githubusercontent.com/aakhtar3/aakhtar3/main/img/wave.gif" width="30px"> Hello <img src="https://raw.githubusercontent.com/aakhtar3/aakhtar3/main/img/wave.gif" width="30px"></h2>
 
 <p align="center">
     <img src="https://raw.githubusercontent.com/aakhtar3/aakhtar3/main/img/jump.gif" width="100px">
@@ -130,3 +130,5 @@
     <img src="https://github-readme-stats.vercel.app/api?username=aakhtar3&theme=dark&show_icons=true&cache_seconds=43200"/>
 </td>
 </tr></table>
+
+<img align="center" src="https://visitor-badge.glitch.me/badge?page_id=aakhtar3.aakhtar3"/>
