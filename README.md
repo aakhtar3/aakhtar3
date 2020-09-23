@@ -3,7 +3,7 @@
 <h2 align="center"><img src="https://raw.githubusercontent.com/aakhtar3/aakhtar3/main/img/wave.gif" width="30px"> Hello <img align="center" src="https://visitor-badge.glitch.me/badge?page_id=aakhtar3.aakhtar3"/> <img src="https://raw.githubusercontent.com/aakhtar3/aakhtar3/main/img/wave.gif" width="30px"></h2>
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/aakhtar3/aakhtar3/main/img/clap.gif" width="300px">
+    <img src="https://raw.githubusercontent.com/aakhtar3/aakhtar3/main/img/ssb.gif" width="200px">
 </p>
 
 <table style="width:100%"><tr >
