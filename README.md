@@ -2,8 +2,10 @@
 <!-- Hello -->
 <h2 align="center"><img src="https://raw.githubusercontent.com/aakhtar3/aakhtar3/main/img/wave.gif" width="30px"> Hello <img src="https://raw.githubusercontent.com/aakhtar3/aakhtar3/main/img/wave.gif" width="30px"></h2>
 
+<!-- <img src="https://github.com/aakhtar3/aakhtar3/workflows/Update%20Activity/badge.svg?branch=main" align="right" alt="Build"> <img src="https://visitor-badge.glitch.me/badge?page_id=aakhtar3.aakhtar3" align="left"/> -->
+
 <p align="center">
-    <img src="https://raw.githubusercontent.com/aakhtar3/aakhtar3/main/img/jump.gif" width="100px">
+    <img src="https://raw.githubusercontent.com/aakhtar3/aakhtar3/main/img/jump.gif" width="100px"> <img src="https://github.com/aakhtar3/aakhtar3/workflows/Update%20Activity/badge.svg?branch=main" align="right" alt="Build"> <img src="https://visitor-badge.glitch.me/badge?page_id=aakhtar3.aakhtar3" align="left"/>
 </p>
 
 <table style="width:100%"><tr >
@@ -131,4 +133,4 @@
 </td>
 </tr></table>
 
-<img src="https://github.com/aakhtar3/aakhtar3/workflows/Update%20Activity/badge.svg?branch=main" align="right" alt="Build"></a> <img src="https://visitor-badge.glitch.me/badge?page_id=aakhtar3.aakhtar3" />
+<img src="https://github.com/aakhtar3/aakhtar3/workflows/Update%20Activity/badge.svg?branch=main" align="right" alt="Build"> <img src="https://visitor-badge.glitch.me/badge?page_id=aakhtar3.aakhtar3" />
