@@ -110,7 +110,7 @@
 </td>
 <td width="50%">
     <a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme">
-        <img alt="Build" src="https://github-readme-stats.vercel.app/api/pin/?username=abhisheknaiidu&repo=awesome-github-profile-readme&theme=dark&cache_seconds=43200">
+        <img alt="Build" src="https://github-readme-stats.vercel.app/api/pin/?username=abhisheknaiidu&repo=awesome-github-profile-readme&theme=dark&cache_seconds=86400">
     </a>
 </td>
 </tr>
@@ -120,9 +120,9 @@
 
 <table><tr>
 <td width="40%">
-    <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aakhtar3&langs_count=8&theme=dark&cache_seconds=86400&layout=compact&hide=jupyter notebook">
+    <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aakhtar3&langs_count=8&theme=dark&cache_seconds=43200&layout=compact&hide=jupyter notebook">
 </td>
 <td width="60%">
-    <img src="https://github-readme-stats.vercel.app/api?username=aakhtar3&theme=dark&show_icons=true&cache_seconds=86400"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=aakhtar3&theme=dark&show_icons=true&cache_seconds=43200"/>
 </td>
 </tr></table>
