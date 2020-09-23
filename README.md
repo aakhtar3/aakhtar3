@@ -13,6 +13,8 @@
     </br>
     🛴 Rider
     </br>
+    🚴‍♂️ Biker
+    </br>
     💾 Techie
     </br>
     🕺 Dancer
