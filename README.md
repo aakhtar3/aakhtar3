@@ -75,6 +75,10 @@
 🎉 Merged PR [#101](https://github.com/disneystreaming/automated-cloud-advisor/pull/101) in [automated-cloud-advisor](https://github.com/disneystreaming/automated-cloud-advisor)
 
 💪 Opened PR [#101](https://github.com/disneystreaming/automated-cloud-advisor/pull/101) in [automated-cloud-advisor](https://github.com/disneystreaming/automated-cloud-advisor)
+
+🗣 Posted on [#100](https://github.com/disneystreaming/automated-cloud-advisor/issues/100) in [automated-cloud-advisor](https://github.com/disneystreaming/automated-cloud-advisor)
+
+🎉 Merged PR [#100](https://github.com/disneystreaming/automated-cloud-advisor/pull/100) in [automated-cloud-advisor](https://github.com/disneystreaming/automated-cloud-advisor)
 <!--END_SECTION:activity-->
 </td>
 </tr></table>
