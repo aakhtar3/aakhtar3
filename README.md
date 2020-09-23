@@ -11,6 +11,8 @@
     </br>
     🧘‍♂️ Yogi
     </br>
+    🛴 Rider
+    </br>
     💾 Techie
     </br>
     🕺 Dancer
