@@ -77,9 +77,6 @@
 <td valign="top" width="44%">
 <h2 align="center">Activity</h2>
 <!--START_SECTION:activity-->
-
-💪 Opened [#336](https://github.com/abhisheknaiidu/awesome-github-profile-readme/pull/336) in [awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
-<!--END_SECTION:activity-->
 </td>
 </tr></table>
 
