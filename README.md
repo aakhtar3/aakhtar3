@@ -80,7 +80,7 @@
 
 🍴 Forked [awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
 
-🗣 Posted [#102](https://github.com/disneystreaming/automated-cloud-advisor/issues/102) in [automated-cloud-advisor](https://github.com/disneystreaming/automated-cloud-advisor)
+🗣 Posted on [#102](https://github.com/disneystreaming/automated-cloud-advisor/issues/102) in [automated-cloud-advisor](https://github.com/disneystreaming/automated-cloud-advisor)
 
 🎉 Merged [#102](https://github.com/disneystreaming/automated-cloud-advisor/pull/102) in [automated-cloud-advisor](https://github.com/disneystreaming/automated-cloud-advisor)
 
