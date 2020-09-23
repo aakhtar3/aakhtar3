@@ -4,7 +4,7 @@
 
 <table style="width:100%"><tr >
 <td valign="top" width="22%">
-<h2 align="center">😈 whoami 😈</h2>
+<h2 align="center">whoami</h2>
 
 <p align="center">
     📍 NYC
@@ -30,7 +30,7 @@
 </td>
 <!-- Skills -->
 <td valign="top" width="34%">
-<h2 align="center">🛠 Toolbox 🛠</h2>
+<h2 align="center">Toolbox</h2>
 <!-- Adobe -->
 <img alt="Photoshop" src="https://img.shields.io/badge/Photoshop-black?&logo=adobe-photoshop&color=151515&logoColor=79ff97">
 <img alt="Illustrator" src="https://img.shields.io/badge/Illustrator-black?&logo=adobe-illustrator&color=151515&logoColor=79ff97">
@@ -69,7 +69,7 @@
 <img alt="Apple" src="https://img.shields.io/badge/OSX-black?&logo=apple&color=151515&logoColor=79ff97">
 </td>
 <td valign="top" width="44%">
-<h2 align="center">👾 Activity 👾</h2>
+<h2 align="center">Activity</h2>
 <!--START_SECTION:activity-->
 
 💪 Opened [#336](https://github.com/abhisheknaiidu/awesome-github-profile-readme/pull/336) in [awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
