@@ -68,7 +68,7 @@
 <img alt="Linux" src="https://img.shields.io/badge/Linux-black?&logo=linux&color=151515&logoColor=79ff97">
 <img alt="Apple" src="https://img.shields.io/badge/OSX-black?&logo=apple&color=151515&logoColor=79ff97">
 </td>
-<td valign="top" width="42%">
+<td valign="top" width="44%">
 <h2 align="center">👾 Activity 👾</h2>
 <!--START_SECTION:activity-->
 
