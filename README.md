@@ -131,4 +131,4 @@
 </td>
 </tr></table>
 
-<img align="center" src="https://visitor-badge.glitch.me/badge?page_id=aakhtar3.aakhtar3"/>
+<a href="https://github.com/simonw/simonw/actions"><img src="https://github.com/aakhtar3/aakhtar3/workflows/Update%20README/badge.svg?branch=main" align="right" alt="Build"></a> <img src="https://visitor-badge.glitch.me/badge?page_id=aakhtar3.aakhtar3" />
