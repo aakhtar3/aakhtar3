@@ -78,17 +78,7 @@
 <h2 align="center">Activity</h2>
 <!--START_SECTION:activity-->
 
-💪 Opened [#336](https://github.com/abhisheknaiidu/awesome-github-profile-readme/pull/336) in [awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
-
-🍴 Forked [awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
-
-🗣 Posted [#102](https://github.com/disneystreaming/automated-cloud-advisor/issues/102) in [automated-cloud-advisor](https://github.com/disneystreaming/automated-cloud-advisor)
-
-🎉 Merged [#102](https://github.com/disneystreaming/automated-cloud-advisor/pull/102) in [automated-cloud-advisor](https://github.com/disneystreaming/automated-cloud-advisor)
-
-💪 Opened [#102](https://github.com/disneystreaming/automated-cloud-advisor/pull/102) in [automated-cloud-advisor](https://github.com/disneystreaming/automated-cloud-advisor)
-
-💪 Opened [#34](https://github.com/jamesgeorge007/github-activity-readme/pull/34) in [github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
+💪 Opened [#336](https://github.com/abhisheknaiidu/awesome-github-profile-readme/pull/336) in [awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) </br> 🍴 Forked [awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) </br> 🗣 Posted [#102](https://github.com/disneystreaming/automated-cloud-advisor/issues/102) in [automated-cloud-advisor](https://github.com/disneystreaming/automated-cloud-advisor) </br> 🎉 Merged [#102](https://github.com/disneystreaming/automated-cloud-advisor/pull/102) in [automated-cloud-advisor](https://github.com/disneystreaming/automated-cloud-advisor) </br> 💪 Opened [#102](https://github.com/disneystreaming/automated-cloud-advisor/pull/102) in [automated-cloud-advisor](https://github.com/disneystreaming/automated-cloud-advisor) </br> 💪 Opened [#34](https://github.com/jamesgeorge007/github-activity-readme/pull/34) in [github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
 <!--END_SECTION:activity-->
 </td>
 </tr></table>
