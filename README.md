@@ -2,11 +2,11 @@
 <!-- Hello -->
 <h2 align="center"><img src="https://raw.githubusercontent.com/aakhtar3/aakhtar3/main/img/wave.gif" width="30px"> Hello <img src="https://raw.githubusercontent.com/aakhtar3/aakhtar3/main/img/wave.gif" width="30px"></h2>
 
-<img src="https://github.com/aakhtar3/aakhtar3/workflows/Update%20Activity/badge.svg?branch=main" align="right" alt="Build"> <img src="https://visitor-badge.glitch.me/badge?page_id=aakhtar3.aakhtar3"/>
-
-<p align="center">
+<h2 align="center">
     <img src="https://raw.githubusercontent.com/aakhtar3/aakhtar3/main/img/jump.gif" width="100px">
-</p>
+</h2>
+
+<img src="https://visitor-badge.glitch.me/badge?page_id=aakhtar3.aakhtar3"/> <img src="https://github.com/aakhtar3/aakhtar3/workflows/Update%20Activity/badge.svg?branch=main" align="right" alt="Build">
 
 <table style="width:100%"><tr >
 <td valign="top" width="22%">
