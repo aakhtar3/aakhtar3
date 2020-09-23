@@ -126,7 +126,7 @@
 <td width="40%">
     <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aakhtar3&langs_count=8&theme=dark&cache_seconds=43200&layout=compact&hide=jupyter notebook">
 </td>
-<td width="60%">
+<td width="55%">
     <img src="https://github-readme-stats.vercel.app/api?username=aakhtar3&theme=dark&show_icons=true&cache_seconds=43200"/>
 </td>
 </tr></table>
