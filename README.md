@@ -25,7 +25,7 @@
     </br>
     ✈️ Traveler
     </br>
-    👨‍💻 Architect</a>
+    👨‍💻 Engineer</a>
 </p>
 </td>
 <!-- Skills -->
