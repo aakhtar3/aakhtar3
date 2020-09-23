@@ -77,15 +77,6 @@
 <td valign="top" width="44%">
 <h2 align="center">Activity</h2>
 <!--START_SECTION:activity-->
-
-🍴 Forked [deno](https://github.com/denoland/deno) </br>
-💪 Opened [#336](https://github.com/abhisheknaiidu/awesome-github-profile-readme/pull/336) in [awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) </br>
-🍴 Forked [awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) </br>
-🗣 Posted [#102](https://github.com/disneystreaming/automated-cloud-advisor/issues/102) in [automated-cloud-advisor](https://github.com/disneystreaming/automated-cloud-advisor) </br>
-🎉 Merged [#102](https://github.com/disneystreaming/automated-cloud-advisor/pull/102) in [automated-cloud-advisor](https://github.com/disneystreaming/automated-cloud-advisor) </br>
-💪 Opened [#102](https://github.com/disneystreaming/automated-cloud-advisor/pull/102) in [automated-cloud-advisor](https://github.com/disneystreaming/automated-cloud-advisor) </br>
-💪 Opened [#34](https://github.com/jamesgeorge007/github-activity-readme/pull/34) in [github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme) </br>
-<!--END_SECTION:activity-->
 </td>
 </tr></table>
 
