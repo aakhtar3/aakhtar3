@@ -3,7 +3,7 @@
 <h2 align="center"><img src="https://raw.githubusercontent.com/aakhtar3/aakhtar3/main/img/wave.gif" width="30px"> Hello <img align="center" src="https://visitor-badge.glitch.me/badge?page_id=aakhtar3.aakhtar3"/> <img src="https://raw.githubusercontent.com/aakhtar3/aakhtar3/main/img/wave.gif" width="30px"></h2>
 
 <table style="width:100%"><tr >
-<td valign="top" width="25%">
+<td valign="top" width="20%">
 <h2 align="center">😈 whoami 😈</h2>
 
 <p align="center">
@@ -29,7 +29,7 @@
 </p>
 </td>
 <!-- Skills -->
-<td valign="top" width="37%">
+<td valign="top" width="40%">
 <h2 align="center">🛠 Toolbox 🛠</h2>
 <!-- Adobe -->
 <img alt="Photoshop" src="https://img.shields.io/badge/Photoshop-black?&logo=adobe-photoshop&color=151515&logoColor=79ff97">
@@ -68,7 +68,7 @@
 <img alt="Linux" src="https://img.shields.io/badge/Linux-black?&logo=linux&color=151515&logoColor=79ff97">
 <img alt="Apple" src="https://img.shields.io/badge/OSX-black?&logo=apple&color=151515&logoColor=79ff97">
 </td>
-<td valign="top" width="37%">
+<td valign="top" width="40%">
 <h2 align="center">👾 Activity 👾</h2>
 <!--START_SECTION:activity-->
 
