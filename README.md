@@ -100,13 +100,13 @@
 </tr>
 <tr>
 <td width="50%">
-    <a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme">
-        <img alt="Build" src="https://github-readme-stats.vercel.app/api/pin/?username=abhisheknaiidu&repo=awesome-github-profile-readme&theme=dark&cache_seconds=43200">
+    <a href="https://github.com/jamesgeorge007/github-activity-readme">
+        <img alt="Build" src="https://github-readme-stats.vercel.app/api/pin/?username=jamesgeorge007&repo=github-activity-readme&theme=dark&cache_seconds=86400">
     </a>
 </td>
 <td width="50%">
-    <a href="https://github.com/jamesgeorge007/github-activity-readme">
-        <img alt="Build" src="https://github-readme-stats.vercel.app/api/pin/?username=jamesgeorge007&repo=github-activity-readme&theme=dark&cache_seconds=86400">
+    <a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme">
+        <img alt="Build" src="https://github-readme-stats.vercel.app/api/pin/?username=abhisheknaiidu&repo=awesome-github-profile-readme&theme=dark&cache_seconds=43200">
     </a>
 </td>
 </tr>
