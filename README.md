@@ -132,5 +132,3 @@
     <img src="https://github-readme-stats.vercel.app/api?username=aakhtar3&theme=dark&show_icons=true&cache_seconds=43200"/>
 </td>
 </tr></table>
-
-<img src="https://github.com/aakhtar3/aakhtar3/workflows/Update%20Activity/badge.svg?branch=main" align="right" alt="Build"> <img src="https://visitor-badge.glitch.me/badge?page_id=aakhtar3.aakhtar3" />
