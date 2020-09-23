@@ -72,13 +72,13 @@
 <h2 align="center">👾 Activity 👾</h2>
 <!--START_SECTION:activity-->
 
+💪 Opened PR [#34](https://github.com/jamesgeorge007/github-activity-readme/pull/34) in [github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
+
 🍴 Forked [github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
 
 🗣 Posted on [#101](https://github.com/disneystreaming/automated-cloud-advisor/issues/101) in [automated-cloud-advisor](https://github.com/disneystreaming/automated-cloud-advisor)
 
 🎉 Merged PR [#101](https://github.com/disneystreaming/automated-cloud-advisor/pull/101) in [automated-cloud-advisor](https://github.com/disneystreaming/automated-cloud-advisor)
-
-💪 Opened PR [#101](https://github.com/disneystreaming/automated-cloud-advisor/pull/101) in [automated-cloud-advisor](https://github.com/disneystreaming/automated-cloud-advisor)
 <!--END_SECTION:activity-->
 </td>
 </tr></table>
