@@ -2,7 +2,9 @@
 <!-- Hello -->
 <h2 align="center"><img src="https://raw.githubusercontent.com/aakhtar3/aakhtar3/main/img/wave.gif" width="30px"> Hello <img align="center" src="https://visitor-badge.glitch.me/badge?page_id=aakhtar3.aakhtar3"/> <img src="https://raw.githubusercontent.com/aakhtar3/aakhtar3/main/img/wave.gif" width="30px"></h2>
 
-<img src="https://raw.githubusercontent.com/aakhtar3/aakhtar3/main/img/clap.gif">
+<p align="center">
+    <img src="https://raw.githubusercontent.com/aakhtar3/aakhtar3/main/img/clap.gif" width="300px">
+</p>
 
 <table style="width:100%"><tr >
 <td valign="top" width="22%">
