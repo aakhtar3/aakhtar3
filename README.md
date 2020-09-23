@@ -83,9 +83,7 @@
 💪 Opened PR [#102](https://github.com/disneystreaming/automated-cloud-advisor/pull/102) in [automated-cloud-advisor](https://github.com/disneystreaming/automated-cloud-advisor)
 
 💪 Opened PR [#34](https://github.com/jamesgeorge007/github-activity-readme/pull/34) in [github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
-
 <!--END_SECTION:activity-->
-
 </td>
 </tr></table>
 
