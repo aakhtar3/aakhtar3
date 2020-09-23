@@ -3,7 +3,7 @@
 <h2 align="center"><img src="https://raw.githubusercontent.com/aakhtar3/aakhtar3/main/img/wave.gif" width="30px"> Hello <img src="https://raw.githubusercontent.com/aakhtar3/aakhtar3/main/img/wave.gif" width="30px"></h2>
 
 <h1 align="center">
-    😈 🟪 💜 🟣 👾 <img src="https://raw.githubusercontent.com/aakhtar3/aakhtar3/main/img/jump.gif" width="100px"> 👾 🟣 💜 🟪 😈
+    👾 👾 👾 👾 👾 <img src="https://raw.githubusercontent.com/aakhtar3/aakhtar3/main/img/jump.gif" width="100px"> 👾 👾 👾 👾 👾
 </h1>
 
 <img src="https://visitor-badge.glitch.me/badge?page_id=aakhtar3.aakhtar3"/> <img src="https://github.com/aakhtar3/aakhtar3/workflows/Update%20Activity/badge.svg?branch=main" align="right" alt="Build">
