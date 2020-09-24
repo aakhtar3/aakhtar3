@@ -2,7 +2,7 @@
 <h2 align="center"><img src="https://raw.githubusercontent.com/aakhtar3/aakhtar3/main/img/wave.gif" width="30px"> Hello <img src="https://raw.githubusercontent.com/aakhtar3/aakhtar3/main/img/wave.gif" width="30px"></h2>
 <!-- Image -->
 <p align="center">
-<img alt="u/byronius_j" src="https://raw.githubusercontent.com/aakhtar3/aakhtar3/main/img/ride.gif" height="200px"></p>
+<img alt="u/byronius_j" src="https://raw.githubusercontent.com/aakhtar3/aakhtar3/main/img/bike.gif" height="200px"></p>
 
 <!-- Badge -->
 <img src="https://visitor-badge.glitch.me/badge?page_id=aakhtar3.aakhtar3"/> <img src="https://github.com/aakhtar3/aakhtar3/workflows/Update%20Activity/badge.svg?branch=main" align="right" alt="Build">
@@ -89,7 +89,7 @@
 </tr></table>
 <!-- Stats -->
 <h1 align="center">
-👾 👾 👾 <img alt="OmegaSpartanSP" src="https://raw.githubusercontent.com/aakhtar3/aakhtar3/main/img/jump3.gif" height="80px"> 👾 👾 👾
+👾 👾 👾 <img alt="OmegaSpartanSP" src="https://raw.githubusercontent.com/aakhtar3/aakhtar3/main/img/hop.gif" height="80px"> 👾 👾 👾
 </h1>
 <table><tr>
 <td width="40%">
@@ -100,7 +100,7 @@
 </td>
 </tr></table>
 <!-- Working on -->
-<h2 align="center"><img alt="u/byronius_j" src="https://raw.githubusercontent.com/aakhtar3/aakhtar3/main/img/sky.gif" height="150px"></h2>
+<h2 align="center"><img alt="u/byronius_j" src="https://raw.githubusercontent.com/aakhtar3/aakhtar3/main/img/star.gif" height="200px"></h2>
 <table><tr>
 <td width="50%">
 <a href="https://github.com/disneystreaming/automated-cloud-advisor"><img alt="Build" src="https://github-readme-stats.vercel.app/api/pin/?username=disneystreaming&repo=automated-cloud-advisor&theme=dark&cache_seconds=43200">
