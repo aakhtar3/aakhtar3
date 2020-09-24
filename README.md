@@ -1,9 +1,6 @@
 <!-- Hello -->
 <h2 align="center"><img src="https://raw.githubusercontent.com/aakhtar3/aakhtar3/main/img/wave.gif" width="30px"> Hello <img src="https://raw.githubusercontent.com/aakhtar3/aakhtar3/main/img/wave.gif" width="30px"></h2>
 <!-- Image -->
-<h1 align="center">
-👾 👾 👾 👾 👾 <img alt="OmegaSpartanSP" src="https://raw.githubusercontent.com/aakhtar3/aakhtar3/main/img/jump.gif" width="100px"> 👾 👾 👾 👾 👾
-</h1>
 <p align="center">
 <img alt="u/byronius_j" src="https://raw.githubusercontent.com/aakhtar3/aakhtar3/main/img/ride.gif" width="400px"></p>
 
@@ -123,3 +120,8 @@
 <img src="https://github-readme-stats.vercel.app/api?username=aakhtar3&theme=dark&show_icons=true&cache_seconds=43200"/>
 </td>
 </tr></table>
+
+<!-- Image -->
+<h1 align="center">
+👾 👾 👾 👾 👾 <img alt="OmegaSpartanSP" src="https://raw.githubusercontent.com/aakhtar3/aakhtar3/main/img/jump.gif" width="100px"> 👾 👾 👾 👾 👾
+</h1>
