@@ -5,7 +5,7 @@
 <img alt="u/byronius_j" src="https://raw.githubusercontent.com/aakhtar3/aakhtar3/main/img/ride.gif"></p>
 
 <!-- Badge -->
-<a href="https://dev.to/aakhtar3"><img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="aakhtar3's DEV Profile" height="21"></a><img src="https://visitor-badge.glitch.me/badge?page_id=aakhtar3.aakhtar3"/> <img src="https://github.com/aakhtar3/aakhtar3/workflows/Update%20Activity/badge.svg?branch=main" align="right" alt="Build">
+<img src="https://visitor-badge.glitch.me/badge?page_id=aakhtar3.aakhtar3"/> <img src="https://github.com/aakhtar3/aakhtar3/workflows/Update%20Activity/badge.svg?branch=main" align="right" alt="Build">
 
 <!-- Info -->
 <table style="width:100%"><tr >
@@ -87,6 +87,18 @@
 <!--END_SECTION:activity-->
 </td>
 </tr></table>
+<!-- Stats -->
+<h1 align="center">
+👾 👾 👾 <img alt="OmegaSpartanSP" src="https://raw.githubusercontent.com/aakhtar3/aakhtar3/main/img/jump.gif" width="100px"> 👾 👾 👾
+</h1>
+<table><tr>
+<td width="40%">
+<img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aakhtar3&langs_count=8&theme=dark&cache_seconds=43200&layout=compact&hide=jupyter notebook">
+</td>
+<td width="55%">
+<img src="https://github-readme-stats.vercel.app/api?username=aakhtar3&theme=dark&show_icons=true&cache_seconds=43200"/>
+</td>
+</tr></table>
 <!-- Working on -->
 <h2 align="center">💻 Working On 💻</h2>
 <table><tr>
@@ -110,22 +122,8 @@
 </td>
 </tr>
 </table>
-<!-- Stats -->
-<h2 align="center">📊 Stats 📊</h2>
-<table><tr>
-<td width="40%">
-<img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aakhtar3&langs_count=8&theme=dark&cache_seconds=43200&layout=compact&hide=jupyter notebook">
-</td>
-<td width="55%">
-<img src="https://github-readme-stats.vercel.app/api?username=aakhtar3&theme=dark&show_icons=true&cache_seconds=43200"/>
-</td>
-</tr></table>
 
-<!-- Image -->
-<h1 align="center">
-👾 👾 👾 <img alt="OmegaSpartanSP" src="https://raw.githubusercontent.com/aakhtar3/aakhtar3/main/img/jump.gif" width="100px"> 👾 👾 👾
-</h1>
 
 <!-- Image -->
 <p align="center">
-<img alt="u/byronius_j" src="https://raw.githubusercontent.com/aakhtar3/aakhtar3/main/img/cloud.gif"></p>
+<img alt="u/byronius_j" src="https://raw.githubusercontent.com/aakhtar3/aakhtar3/main/img/sky.gif"></p>
