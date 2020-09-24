@@ -122,4 +122,4 @@
 </td>
 </tr></table>
 
-<img src="https://raw.githubusercontent.com/aakhtar3/aakhtar3/main/img/bike.gif" width="100px">
+<img src="https://raw.githubusercontent.com/aakhtar3/aakhtar3/main/img/bike.gif">
