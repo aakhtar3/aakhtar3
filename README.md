@@ -6,6 +6,7 @@
 </h1>
 <!-- Badge -->
 <img src="https://visitor-badge.glitch.me/badge?page_id=aakhtar3.aakhtar3"/> <img src="https://github.com/aakhtar3/aakhtar3/workflows/Update%20Activity/badge.svg?branch=main" align="right" alt="Build">
+
 <!-- Info -->
 <table style="width:100%"><tr >
 <td valign="top" width="22%">
