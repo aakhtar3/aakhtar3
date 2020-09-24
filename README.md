@@ -125,3 +125,7 @@
 <h1 align="center">
 👾 👾 👾 <img alt="OmegaSpartanSP" src="https://raw.githubusercontent.com/aakhtar3/aakhtar3/main/img/jump.gif" width="100px"> 👾 👾 👾
 </h1>
+
+<!-- Image -->
+<p align="center">
+<img alt="u/byronius_j" src="https://raw.githubusercontent.com/aakhtar3/aakhtar3/main/img/cloud.gif"></p>
