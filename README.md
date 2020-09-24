@@ -100,7 +100,7 @@
 </td>
 </tr></table>
 <!-- Working on -->
-<h2 align="center">💻 Working On 💻</h2>
+<h2 align="center"><img alt="u/byronius_j" src="https://raw.githubusercontent.com/aakhtar3/aakhtar3/main/img/sky.gif" height="100px"></h2>
 <table><tr>
 <td width="50%">
 <a href="https://github.com/disneystreaming/automated-cloud-advisor"><img alt="Build" src="https://github-readme-stats.vercel.app/api/pin/?username=disneystreaming&repo=automated-cloud-advisor&theme=dark&cache_seconds=43200">
@@ -122,8 +122,3 @@
 </td>
 </tr>
 </table>
-
-
-<!-- Image -->
-<p align="center">
-<img alt="u/byronius_j" src="https://raw.githubusercontent.com/aakhtar3/aakhtar3/main/img/sky.gif" height="100px"></p>
