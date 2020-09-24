@@ -121,3 +121,5 @@
 <img src="https://github-readme-stats.vercel.app/api?username=aakhtar3&theme=dark&show_icons=true&cache_seconds=43200"/>
 </td>
 </tr></table>
+
+<img src="https://raw.githubusercontent.com/aakhtar3/aakhtar3/main/img/bike.gif" width="100px">
