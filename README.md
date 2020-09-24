@@ -16,8 +16,6 @@
 </br>
 🧘‍♂️ Yogi
 </br>
-🛴 Rider
-</br>
 🚴‍♂️ Biker
 </br>
 💾 Techie
