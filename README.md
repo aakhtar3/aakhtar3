@@ -89,7 +89,7 @@
 </tr></table>
 <!-- Stats -->
 <h1 align="center">
-👾 👾 👾 <img alt="OmegaSpartanSP" src="https://raw.githubusercontent.com/aakhtar3/aakhtar3/main/img/hop.gif" height="80px"> 👾 👾 👾
+👾 👾 👾 <img alt="OmegaSpartanSP" src="https://raw.githubusercontent.com/aakhtar3/aakhtar3/main/img/hop.gif" height="100px"> 👾 👾 👾
 </h1>
 <table><tr>
 <td width="40%">
