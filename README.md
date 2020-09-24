@@ -5,7 +5,7 @@
 <img alt="u/byronius_j" src="https://raw.githubusercontent.com/aakhtar3/aakhtar3/main/img/bike.gif" height="200px"></p>
 
 <!-- Badge -->
-<img src="https://visitor-badge.glitch.me/badge?page_id=aakhtar3.aakhtar3"/> <img src="https://github.com/aakhtar3/aakhtar3/workflows/Update%20Activity/badge.svg?branch=main" align="right" alt="Build">
+<img src="https://visitor-badge.glitch.me/badge?page_id=aakhtar3.aakhtar3"/> <a href="https://github.com/aakhtar3/aakhtar3/actions?query=workflow%3A%22Update+Activity%22"><img src="https://github.com/aakhtar3/aakhtar3/workflows/Update%20Activity/badge.svg?branch=main" align="right" alt="Build"></a>
 
 <!-- Info -->
 <table style="width:100%"><tr >
