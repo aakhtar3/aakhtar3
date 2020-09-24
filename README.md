@@ -4,6 +4,7 @@
 <h1 align="center">
 👾 👾 👾 👾 👾 <img src="https://raw.githubusercontent.com/aakhtar3/aakhtar3/main/img/jump.gif" width="100px"> 👾 👾 👾 👾 👾
 </h1>
+
 <!-- Badge -->
 <img src="https://visitor-badge.glitch.me/badge?page_id=aakhtar3.aakhtar3"/> <img src="https://github.com/aakhtar3/aakhtar3/workflows/Update%20Activity/badge.svg?branch=main" align="right" alt="Build">
 
