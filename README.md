@@ -1,37 +1,35 @@
-<!DOCTYPE html>
 <!-- Hello -->
 <h2 align="center"><img src="https://raw.githubusercontent.com/aakhtar3/aakhtar3/main/img/wave.gif" width="30px"> Hello <img src="https://raw.githubusercontent.com/aakhtar3/aakhtar3/main/img/wave.gif" width="30px"></h2>
-
+<!-- Image -->
 <h1 align="center">
-    👾 👾 👾 👾 👾 <img src="https://raw.githubusercontent.com/aakhtar3/aakhtar3/main/img/jump.gif" width="100px"> 👾 👾 👾 👾 👾
+👾 👾 👾 👾 👾 <img src="https://raw.githubusercontent.com/aakhtar3/aakhtar3/main/img/jump.gif" width="100px"> 👾 👾 👾 👾 👾
 </h1>
-
+<!-- Badge -->
 <img src="https://visitor-badge.glitch.me/badge?page_id=aakhtar3.aakhtar3"/> <img src="https://github.com/aakhtar3/aakhtar3/workflows/Update%20Activity/badge.svg?branch=main" align="right" alt="Build">
-
+<!-- Info -->
 <table style="width:100%"><tr >
 <td valign="top" width="22%">
 <h2 align="center">whoami</h2>
-
 <p align="center">
-    📍 NYC
-    </br>
-    🧘‍♂️ Yogi
-    </br>
-    🛴 Rider
-    </br>
-    🚴‍♂️ Biker
-    </br>
-    💾 Techie
-    </br>
-    🕺 Dancer
-    </br>
-    🎮 Gamer
-    </br>
-    🧙‍♂️ Wizard
-    </br>
-    ✈️ Traveler
-    </br>
-    👨‍💻 Architect</a>
+📍 NYC
+</br>
+🧘‍♂️ Yogi
+</br>
+🛴 Rider
+</br>
+🚴‍♂️ Biker
+</br>
+💾 Techie
+</br>
+🕺 Dancer
+</br>
+🎮 Gamer
+</br>
+🧙‍♂️ Wizard
+</br>
+✈️ Traveler
+</br>
+👨‍💻 Architect</a>
 </p>
 </td>
 <!-- Skills -->
@@ -88,43 +86,36 @@
 <!--END_SECTION:activity-->
 </td>
 </tr></table>
-
-<h2 align="center">💻 Working On 💻</h2>
 <!-- Working on -->
-<table>
-<tr>
+<h2 align="center">💻 Working On 💻</h2>
+<table><tr>
 <td width="50%">
-    <a href="https://github.com/disneystreaming/automated-cloud-advisor">
-        <img alt="Build" src="https://github-readme-stats.vercel.app/api/pin/?username=disneystreaming&repo=automated-cloud-advisor&theme=dark&cache_seconds=43200">
-    </a>
+<a href="https://github.com/disneystreaming/automated-cloud-advisor"><img alt="Build" src="https://github-readme-stats.vercel.app/api/pin/?username=disneystreaming&repo=automated-cloud-advisor&theme=dark&cache_seconds=43200">
+</a>
 </td>
 <td width="50%">
-    <a href="https://github.com/donnemartin/awesome-aws">
-        <img alt="Build" src="https://github-readme-stats.vercel.app/api/pin/?username=donnemartin&repo=awesome-aws&theme=dark&cache_seconds=86400">
-    </a>
+<a href="https://github.com/donnemartin/awesome-aws"><img alt="Build" src="https://github-readme-stats.vercel.app/api/pin/?username=donnemartin&repo=awesome-aws&theme=dark&cache_seconds=86400">
+</a>
 </td>
 </tr>
 <tr>
 <td width="50%">
-    <a href="https://github.com/jamesgeorge007/github-activity-readme">
-        <img alt="Build" src="https://github-readme-stats.vercel.app/api/pin/?username=jamesgeorge007&repo=github-activity-readme&theme=dark&cache_seconds=86400">
-    </a>
+<a href="https://github.com/jamesgeorge007/github-activity-readme"><img alt="Build" src="https://github-readme-stats.vercel.app/api/pin/?username=jamesgeorge007&repo=github-activity-readme&theme=dark&cache_seconds=86400">
+</a>
 </td>
 <td width="50%">
-    <a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme">
-        <img alt="Build" src="https://github-readme-stats.vercel.app/api/pin/?username=abhisheknaiidu&repo=awesome-github-profile-readme&theme=dark&cache_seconds=86400">
-    </a>
+<a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme"><img alt="Build" src="https://github-readme-stats.vercel.app/api/pin/?username=abhisheknaiidu&repo=awesome-github-profile-readme&theme=dark&cache_seconds=86400">
+</a>
 </td>
 </tr>
 </table>
 
 <h2 align="center">📊 Stats 📊</h2>
-
 <table><tr>
 <td width="40%">
-    <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aakhtar3&langs_count=8&theme=dark&cache_seconds=43200&layout=compact&hide=jupyter notebook">
+<img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aakhtar3&langs_count=8&theme=dark&cache_seconds=43200&layout=compact&hide=jupyter notebook">
 </td>
 <td width="55%">
-    <img src="https://github-readme-stats.vercel.app/api?username=aakhtar3&theme=dark&show_icons=true&cache_seconds=43200"/>
+<img src="https://github-readme-stats.vercel.app/api?username=aakhtar3&theme=dark&show_icons=true&cache_seconds=43200"/>
 </td>
 </tr></table>
