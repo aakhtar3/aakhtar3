@@ -5,7 +5,7 @@
 <img alt="u/byronius_j" src="https://raw.githubusercontent.com/aakhtar3/aakhtar3/main/img/bike.gif" height="200px"></p>
 
 <!-- Badge -->
-<a href="https://dev.to/aakhtar3"><img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="aakhtar3's DEV Profile" height="22" ></a> <img src="https://visitor-badge.glitch.me/badge?page_id=aakhtar3.aakhtar3"/> <a href="https://github.com/aakhtar3/aakhtar3/actions?query=workflow%3A%22Update+Activity%22"><img src="https://github.com/aakhtar3/aakhtar3/workflows/Update%20Activity/badge.svg?branch=main" align="right" alt="Build"></a>
+<a href="https://dev.to/aakhtar3"><img alt="dev" src="https://img.shields.io/badge/💬-black?&logo=dev.to&color=151515&logoColor=79ff97&cacheSeconds=86400"></a> <img src="https://visitor-badge.glitch.me/badge?page_id=aakhtar3.aakhtar3"/> <a href="https://github.com/aakhtar3/aakhtar3/actions?query=workflow%3A%22Update+Activity%22"><img src="https://img.shields.io/github/workflow/status/aakhtar3/aakhtar3/Update%20Activity?logo=github&label=Update Activity" align="right" alt="Build"></a>
 
 <!-- Info -->
 <table style="width:100%"><tr >
@@ -35,41 +35,41 @@
 <td valign="top" width="34%">
 <h2 align="center">Toolbox</h2>
 <!-- Adobe -->
-<img alt="Photoshop" src="https://img.shields.io/badge/Photoshop-black?&logo=adobe-photoshop&color=151515&logoColor=79ff97">
-<img alt="Illustrator" src="https://img.shields.io/badge/Illustrator-black?&logo=adobe-illustrator&color=151515&logoColor=79ff97">
-<img alt="Lightroom" src="https://img.shields.io/badge/Lightroom-black?&logo=adobe-lightroom-cc&color=151515&logoColor=79ff97">
+<img alt="Photoshop" src="https://img.shields.io/badge/Photoshop-black?&logo=adobe-photoshop&color=151515&logoColor=79ff97&cacheSeconds=86400">
+<img alt="Illustrator" src="https://img.shields.io/badge/Illustrator-black?&logo=adobe-illustrator&color=151515&logoColor=79ff97&cacheSeconds=86400">
+<img alt="Lightroom" src="https://img.shields.io/badge/Lightroom-black?&logo=adobe-lightroom-cc&color=151515&logoColor=79ff97&cacheSeconds=86400">
 <!-- Web -->
-<img alt="HTML" src="https://img.shields.io/badge/HTML-black?&logo=html5&color=151515&logoColor=79ff97">
-<img alt="CSS" src="https://img.shields.io/badge/CSS-black?&logo=css3&color=151515&logoColor=79ff97">
-<img alt="React" src="https://img.shields.io/badge/React-black?&logo=react&color=151515&logoColor=79ff97">
-<img alt="Angular" src="https://img.shields.io/badge/Angular-black?&logo=angular&color=151515&logoColor=79ff97">
-<img alt="Meteor" src="https://img.shields.io/badge/Meteor-black?&logo=meteor&color=151515&logoColor=79ff97">
+<img alt="HTML" src="https://img.shields.io/badge/HTML-black?&logo=html5&color=151515&logoColor=79ff97&cacheSeconds=86400">
+<img alt="CSS" src="https://img.shields.io/badge/CSS-black?&logo=css3&color=151515&logoColor=79ff97&cacheSeconds=86400">
+<img alt="React" src="https://img.shields.io/badge/React-black?&logo=react&color=151515&logoColor=79ff97&cacheSeconds=86400">
+<img alt="Angular" src="https://img.shields.io/badge/Angular-black?&logo=angular&color=151515&logoColor=79ff97&cacheSeconds=86400">
+<img alt="Meteor" src="https://img.shields.io/badge/Meteor-black?&logo=meteor&color=151515&logoColor=79ff97&cacheSeconds=86400">
 <!-- App -->
-<img alt="Node" src="https://img.shields.io/badge/Node-black?&logo=node.js&color=151515&logoColor=79ff97">
-<img alt="Python" src="https://img.shields.io/badge/Python-black?&logo=python&color=151515&logoColor=79ff97">
-<img alt="Java" src="https://img.shields.io/badge/Java-black?&logo=java&color=151515&logoColor=79ff97">
-<img alt="Groovy" src="https://img.shields.io/badge/Groovy-black?&logo=groovy&color=151515&logoColor=79ff97">
-<img alt="Scala" src="https://img.shields.io/badge/Scala-black?&logo=scala&color=151515&logoColor=79ff97">
-<img alt="Ruby" src="https://img.shields.io/badge/Ruby-black?&logo=ruby&color=151515&logoColor=79ff97">
-<img alt="PHP" src="https://img.shields.io/badge/PHP-black?&logo=php&color=151515&logoColor=79ff97">
+<img alt="Node" src="https://img.shields.io/badge/Node-black?&logo=node.js&color=151515&logoColor=79ff97&cacheSeconds=86400">
+<img alt="Python" src="https://img.shields.io/badge/Python-black?&logo=python&color=151515&logoColor=79ff97&cacheSeconds=86400">
+<img alt="Java" src="https://img.shields.io/badge/Java-black?&logo=java&color=151515&logoColor=79ff97&cacheSeconds=86400">
+<img alt="Groovy" src="https://img.shields.io/badge/Groovy-black?&logo=groovy&color=151515&logoColor=79ff97&cacheSeconds=86400">
+<img alt="Scala" src="https://img.shields.io/badge/Scala-black?&logo=scala&color=151515&logoColor=79ff97&cacheSeconds=86400">
+<img alt="Ruby" src="https://img.shields.io/badge/Ruby-black?&logo=ruby&color=151515&logoColor=79ff97&cacheSeconds=86400">
+<img alt="PHP" src="https://img.shields.io/badge/PHP-black?&logo=php&color=151515&logoColor=79ff97&cacheSeconds=86400">
 <!-- Data -->
-<img alt="MySQL" src="https://img.shields.io/badge/MySQL-black?&logo=mysql&color=151515&logoColor=79ff97">
-<img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-black?&logo=postgresql&color=151515&logoColor=79ff97">
-<img alt="Oracle" src="https://img.shields.io/badge/Oracle-black?&logo=oracle&color=151515&logoColor=79ff97">
-<img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-black?&logo=mongodb&color=151515&logoColor=79ff97">
-<img alt="Redis" src="https://img.shields.io/badge/Redis-black?&logo=redis&color=151515&logoColor=79ff97">
-<img alt="Neo4j" src="https://img.shields.io/badge/Neo4j-black?&logo=neo4j&color=151515&logoColor=79ff97">
+<img alt="MySQL" src="https://img.shields.io/badge/MySQL-black?&logo=mysql&color=151515&logoColor=79ff97&cacheSeconds=86400">
+<img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-black?&logo=postgresql&color=151515&logoColor=79ff97&cacheSeconds=86400">
+<img alt="Oracle" src="https://img.shields.io/badge/Oracle-black?&logo=oracle&color=151515&logoColor=79ff97&cacheSeconds=86400">
+<img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-black?&logo=mongodb&color=151515&logoColor=79ff97&cacheSeconds=86400">
+<img alt="Redis" src="https://img.shields.io/badge/Redis-black?&logo=redis&color=151515&logoColor=79ff97&cacheSeconds=86400">
+<img alt="Neo4j" src="https://img.shields.io/badge/Neo4j-black?&logo=neo4j&color=151515&logoColor=79ff97&cacheSeconds=86400">
 <!-- Telemetry -->
-<img alt="ELK" src="https://img.shields.io/badge/ELK-black?&logo=kibana&color=151515&logoColor=79ff97">
-<img alt="NewRelic" src="https://img.shields.io/badge/New_Relic-black?&logo=new-relic&color=151515&logoColor=79ff97">
-<img alt="Datadog" src="https://img.shields.io/badge/Datadog-black?&logo=datadog&color=151515&logoColor=79ff97">
+<img alt="ELK" src="https://img.shields.io/badge/ELK-black?&logo=kibana&color=151515&logoColor=79ff97&cacheSeconds=86400">
+<img alt="NewRelic" src="https://img.shields.io/badge/New_Relic-black?&logo=new-relic&color=151515&logoColor=79ff97&cacheSeconds=86400">
+<img alt="Datadog" src="https://img.shields.io/badge/Datadog-black?&logo=datadog&color=151515&logoColor=79ff97&cacheSeconds=86400">
 <!-- DevOps -->
-<img alt="AWS" src="https://img.shields.io/badge/AWS-black?&logo=amazon-aws&color=151515&logoColor=79ff97">
-<img alt="Docker" src="https://img.shields.io/badge/Docker-black?&logo=docker&color=151515&logoColor=79ff97">
-<img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-black?&logo=jenkins&color=151515&logoColor=79ff97">
+<img alt="AWS" src="https://img.shields.io/badge/AWS-black?&logo=amazon-aws&color=151515&logoColor=79ff97&cacheSeconds=86400">
+<img alt="Docker" src="https://img.shields.io/badge/Docker-black?&logo=docker&color=151515&logoColor=79ff97&cacheSeconds=86400">
+<img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-black?&logo=jenkins&color=151515&logoColor=79ff97&cacheSeconds=86400">
 <!-- OS -->
-<img alt="Linux" src="https://img.shields.io/badge/Linux-black?&logo=linux&color=151515&logoColor=79ff97">
-<img alt="Apple" src="https://img.shields.io/badge/OSX-black?&logo=apple&color=151515&logoColor=79ff97">
+<img alt="Linux" src="https://img.shields.io/badge/Linux-black?&logo=linux&color=151515&logoColor=79ff97&cacheSeconds=86400">
+<img alt="Apple" src="https://img.shields.io/badge/OSX-black?&logo=apple&color=151515&logoColor=79ff97&cacheSeconds=86400">
 </td>
 <td valign="top" width="44%">
 <h2 align="center">Activity</h2>
