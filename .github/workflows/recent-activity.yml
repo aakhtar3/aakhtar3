@@ -14,12 +14,13 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v2
 
-      - name: Update Recent Activity
+      - name: Update Git Activity
         env:
           GITHUB_TOKEN: ${{ secrets.GIT_TOKEN }}
         uses: aakhtar3/github-activity-readme@master
 
       - name: Update Blog Activity
         with:
+            max_post_count: 3
             feed_list: "https://dev.to/feed/aakhtar3"
-        uses: gautamkrishnar/blog-post-workflow@master
+        uses: aakhtar3/blog-post-workflow@master
