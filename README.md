@@ -81,6 +81,7 @@
 💪 Opened [#104](https://github.com/disneystreaming/automated-cloud-advisor/pull/104)-[automated-cloud-advisor](https://github.com/disneystreaming/automated-cloud-advisor)</br>
 <!--END_SECTION:activity-->
 <!-- BLOG-POST-LIST:START -->
+💬 Blogged [Add SSL Cert to Nginx](https://dev.to/aakhtar3/add-ssl-cert-to-nginx-3121) </br>
 💬 Blogged [Automated Cloud Advisor](https://dev.to/aakhtar3/automated-cloud-advisor-5d23) </br><!-- BLOG-POST-LIST:END -->
 </td>
 </tr></table>
