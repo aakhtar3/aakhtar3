@@ -84,6 +84,7 @@
 🍴 Forked [deno](https://github.com/denoland/deno) </br> 
 <!--END_SECTION:activity-->
 <!-- BLOG-POST-LIST:START -->
+💬 Blogged @ [Automated Cloud Advisor](https://dev.to/aakhtar3/automated-cloud-advisor-5d23)
 <!-- BLOG-POST-LIST:END -->
 </td>
 </tr></table>
