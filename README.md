@@ -5,7 +5,7 @@
 <img alt="u/byronius_j" src="https://raw.githubusercontent.com/aakhtar3/aakhtar3/main/img/bike.gif" height="200px"></p>
 
 <!-- Badge -->
-<a href="https://dev.to/aakhtar3"><img alt="dev" src="https://img.shields.io/badge/💬-black?&logo=dev.to&cacheSeconds=86400"></a> <img src="https://visitor-badge.glitch.me/badge?page_id=aakhtar3.aakhtar3"/> <a href="https://github.com/aakhtar3/aakhtar3/actions?query=workflow%3A%22Update+Activity%22"><img src="https://img.shields.io/github/workflow/status/aakhtar3/aakhtar3/Update%20Activity?logo=github&label=Activity" align="right" alt="Build"></a>
+<img src="https://visitor-badge.glitch.me/badge?page_id=aakhtar3.aakhtar3"/> <a href="https://github.com/aakhtar3/aakhtar3/actions?query=workflow%3A%22Update+Activity%22"><img src="https://img.shields.io/github/workflow/status/aakhtar3/aakhtar3/Update%20Activity?logo=github&label=Activity" align="right" alt="Build"></a>
 
 <!-- Info -->
 <table style="width:100%"><tr >
@@ -81,6 +81,8 @@
 💪 Opened [#104](https://github.com/disneystreaming/automated-cloud-advisor/pull/104)-[automated-cloud-advisor](https://github.com/disneystreaming/automated-cloud-advisor) </br>
 🗣 Posted [#103](https://github.com/disneystreaming/automated-cloud-advisor/issues/103)-[automated-cloud-advisor](https://github.com/disneystreaming/automated-cloud-advisor) </br>
 <!--END_SECTION:activity-->
+<p align="center"><a href="https://dev.to/aakhtar3"><img alt="dev" src="https://img.shields.io/badge/💬-black?&logo=dev.to&cacheSeconds=86400"></a></p>
+
 <!-- BLOG-POST-LIST:START -->
 💬 Blogged [Test Blog](https://dev.to/aakhtar3/test-blog-4nkk) </br>
 💬 Blogged [Automated Cloud Advisor](https://dev.to/aakhtar3/automated-cloud-advisor-5d23) </br><!-- BLOG-POST-LIST:END -->
