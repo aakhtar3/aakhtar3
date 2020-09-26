@@ -74,6 +74,7 @@
 <td valign="top" width="44%">
 <h2 align="center">Activity</h2>
 <!--START_SECTION:activity-->
+
 🍴 Forked [blog-post-workflow](https://github.com/gautamkrishnar/blog-post-workflow)</br>
 🗣 Posted [#104](https://github.com/disneystreaming/automated-cloud-advisor/issues/104)-[automated-cloud-advisor](https://github.com/disneystreaming/automated-cloud-advisor)</br>
 🎉 Merged [#104](https://github.com/disneystreaming/automated-cloud-advisor/pull/104)-[automated-cloud-advisor](https://github.com/disneystreaming/automated-cloud-advisor)</br>
