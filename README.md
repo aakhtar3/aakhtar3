@@ -75,13 +75,13 @@
 <h2 align="center">Activity</h2>
 <!--START_SECTION:activity-->
 
+🍴 Forked [blog-post-workflow](https://github.com/gautamkrishnar/blog-post-workflow) </br> 
 🗣 Posted [#104](https://github.com/disneystreaming/automated-cloud-advisor/issues/104) in [automated-cloud-advisor](https://github.com/disneystreaming/automated-cloud-advisor) </br> 
 🎉 Merged [#104](https://github.com/disneystreaming/automated-cloud-advisor/pull/104) in [automated-cloud-advisor](https://github.com/disneystreaming/automated-cloud-advisor) </br> 
 💪 Opened [#104](https://github.com/disneystreaming/automated-cloud-advisor/pull/104) in [automated-cloud-advisor](https://github.com/disneystreaming/automated-cloud-advisor) </br> 
 🗣 Posted [#103](https://github.com/disneystreaming/automated-cloud-advisor/issues/103) in [automated-cloud-advisor](https://github.com/disneystreaming/automated-cloud-advisor) </br> 
 🎉 Merged [#103](https://github.com/disneystreaming/automated-cloud-advisor/pull/103) in [automated-cloud-advisor](https://github.com/disneystreaming/automated-cloud-advisor) </br> 
 💪 Opened [#103](https://github.com/disneystreaming/automated-cloud-advisor/pull/103) in [automated-cloud-advisor](https://github.com/disneystreaming/automated-cloud-advisor) </br> 
-🍴 Forked [deno](https://github.com/denoland/deno) </br> 
 <!--END_SECTION:activity-->
 <!-- BLOG-POST-LIST:START -->
 - [Automated Cloud Advisor](https://dev.to/aakhtar3/automated-cloud-advisor-5d23)
