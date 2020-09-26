@@ -84,7 +84,7 @@
 💪 Opened [#103](https://github.com/disneystreaming/automated-cloud-advisor/pull/103) in [automated-cloud-advisor](https://github.com/disneystreaming/automated-cloud-advisor) </br> 
 <!--END_SECTION:activity-->
 <!-- BLOG-POST-LIST:START -->
-- [Automated Cloud Advisor](https://dev.to/aakhtar3/automated-cloud-advisor-5d23)
+💬 [Automated Cloud Advisor](https://dev.to/aakhtar3/automated-cloud-advisor-5d23)
 <!-- BLOG-POST-LIST:END -->
 </td>
 </tr></table>
