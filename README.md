@@ -83,6 +83,8 @@
 💪 Opened [#103](https://github.com/disneystreaming/automated-cloud-advisor/pull/103) in [automated-cloud-advisor](https://github.com/disneystreaming/automated-cloud-advisor) </br> 
 🍴 Forked [deno](https://github.com/denoland/deno) </br> 
 <!--END_SECTION:activity-->
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 </td>
 </tr></table>
 <!-- Stats -->

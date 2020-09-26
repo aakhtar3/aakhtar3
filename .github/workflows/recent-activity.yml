@@ -18,3 +18,8 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GIT_TOKEN }}
         uses: aakhtar3/github-activity-readme@master
+
+      - name: Update Blog Activity
+        with:
+            feed_list: "https://dev.to/feed/aakhtar3,https://www.gautamkrishnar.com/aakhtar3/"
+        uses: gautamkrishnar/blog-post-workflow@master
