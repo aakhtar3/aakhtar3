@@ -84,7 +84,8 @@
 💪 Opened [#103](https://github.com/disneystreaming/automated-cloud-advisor/pull/103)-[automated-cloud-advisor](https://github.com/disneystreaming/automated-cloud-advisor) </br> 
 🍴 Forked [deno](https://github.com/denoland/deno) </br> 
 <!--END_SECTION:activity-->
-<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:START -->💬 Blogged [Test Blog](https://dev.to/aakhtar3/test-blog-4nkk)
+💬 Blogged [Automated Cloud Advisor](https://dev.to/aakhtar3/automated-cloud-advisor-5d23)
 <!-- BLOG-POST-LIST:END -->
 </td>
 </tr></table>
