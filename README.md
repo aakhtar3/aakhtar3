@@ -75,10 +75,10 @@
 <h2 align="center">Activity</h2>
 <!--START_SECTION:activity-->
 
-💪 Opened [#7735](https://github.com/denoland/deno/pull/7735)-[deno](https://github.com/denoland/deno)</br>
-🗣 Posted [#34](https://github.com/jamesgeorge007/github-activity-readme/issues/34)-[github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)</br>
-💫 Liked [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings)</br>
-🍴 Forked [blog-post-workflow](https://github.com/gautamkrishnar/blog-post-workflow)</br>
+🗣 Posted [#3492](https://github.com/facebook/docusaurus/issues/3492)-[docusaurus](https://github.com/facebook/docusaurus)</br>
+💪 Opened [#3492](https://github.com/facebook/docusaurus/pull/3492)-[docusaurus](https://github.com/facebook/docusaurus)</br>
+❗️ Opened [#3491](https://github.com/facebook/docusaurus/issues/3491)-[docusaurus](https://github.com/facebook/docusaurus)</br>
+🍴 Forked [docusaurus](https://github.com/facebook/docusaurus)</br>
 <!--END_SECTION:activity-->
 <!-- BLOG-POST-LIST:START -->
 💬 Blogged [Styling for GitHub README](https://dev.to/aakhtar3/styling-for-github-readme-2fmf) </br>
