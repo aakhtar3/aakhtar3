@@ -75,10 +75,10 @@
 <h2 align="center">Activity</h2>
 <!--START_SECTION:activity-->
 
+💪 Opened [#7735](https://github.com/denoland/deno/pull/7735)-[deno](https://github.com/denoland/deno)</br>
 🗣 Posted [#34](https://github.com/jamesgeorge007/github-activity-readme/issues/34)-[github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)</br>
 💫 Liked [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings)</br>
 🍴 Forked [blog-post-workflow](https://github.com/gautamkrishnar/blog-post-workflow)</br>
-💫 Liked [cli](https://github.com/cli/cli)</br>
 <!--END_SECTION:activity-->
 <!-- BLOG-POST-LIST:START -->
 💬 Blogged [Styling for GitHub README](https://dev.to/aakhtar3/styling-for-github-readme-2fmf) </br>
