@@ -75,10 +75,10 @@
 <h2 align="center">Activity</h2>
 <!--START_SECTION:activity-->
 
+💫 Liked [nginx_configs](https://github.com/10up/nginx_configs)</br>
 🗣 Posted [#3492](https://github.com/facebook/docusaurus/issues/3492)-[docusaurus](https://github.com/facebook/docusaurus)</br>
-💪 Opened [#3492](https://github.com/facebook/docusaurus/pull/3492)-[docusaurus](https://github.com/facebook/docusaurus)</br>
-❗️ Opened [#3491](https://github.com/facebook/docusaurus/issues/3491)-[docusaurus](https://github.com/facebook/docusaurus)</br>
-🍴 Forked [docusaurus](https://github.com/facebook/docusaurus)</br>
+🗣 Posted [#3492](https://github.com/facebook/docusaurus/issues/3492)-[docusaurus](https://github.com/facebook/docusaurus)</br>
+🗣 Posted [#3492](https://github.com/facebook/docusaurus/issues/3492)-[docusaurus](https://github.com/facebook/docusaurus)</br>
 <!--END_SECTION:activity-->
 <!-- BLOG-POST-LIST:START -->
 💬 Blogged [Styling for GitHub README](https://dev.to/aakhtar3/styling-for-github-readme-2fmf) </br>
