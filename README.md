@@ -81,9 +81,9 @@
 🗣 Posted [#3492](https://github.com/facebook/docusaurus/issues/3492)-[docusaurus](https://github.com/facebook/docusaurus)</br>
 <!--END_SECTION:activity-->
 <!-- BLOG-POST-LIST:START -->
+💬 Blogged [Which UUID version?](https://dev.to/aakhtar3/which-uuid-version-2bb2) </br>
 💬 Blogged [Styling for GitHub README](https://dev.to/aakhtar3/styling-for-github-readme-2fmf) </br>
-💬 Blogged [Add SSL Cert to Nginx](https://dev.to/aakhtar3/add-ssl-cert-to-nginx-3121) </br>
-💬 Blogged [Automated Cloud Advisor](https://dev.to/aakhtar3/automated-cloud-advisor-5d23) </br><!-- BLOG-POST-LIST:END -->
+💬 Blogged [Add SSL Cert to Nginx](https://dev.to/aakhtar3/add-ssl-cert-to-nginx-3121) </br><!-- BLOG-POST-LIST:END -->
 </td>
 </tr></table>
 <!-- Stats -->
