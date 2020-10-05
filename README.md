@@ -75,10 +75,10 @@
 <h2 align="center">Activity</h2>
 <!--START_SECTION:activity-->
 
-❗️ Opened [#108](https://github.com/disneystreaming/automated-cloud-advisor/issues/108)-[automated-cloud-advisor](https://github.com/disneystreaming/automated-cloud-advisor)</br>
-💪 Opened [#107](https://github.com/disneystreaming/automated-cloud-advisor/pull/107)-[automated-cloud-advisor](https://github.com/disneystreaming/automated-cloud-advisor)</br>
-❗️ Opened [#106](https://github.com/disneystreaming/automated-cloud-advisor/issues/106)-[automated-cloud-advisor](https://github.com/disneystreaming/automated-cloud-advisor)</br>
-❗️ Opened [#105](https://github.com/disneystreaming/automated-cloud-advisor/issues/105)-[automated-cloud-advisor](https://github.com/disneystreaming/automated-cloud-advisor)</br>
+🗣 Posted [#3538](https://github.com/facebook/docusaurus/issues/3538)-[docusaurus](https://github.com/facebook/docusaurus)</br>
+💪 Opened [#3538](https://github.com/facebook/docusaurus/pull/3538)-[docusaurus](https://github.com/facebook/docusaurus)</br>
+❗️ Opened [#3537](https://github.com/facebook/docusaurus/issues/3537)-[docusaurus](https://github.com/facebook/docusaurus)</br>
+🗣 Posted [#3492](https://github.com/facebook/docusaurus/issues/3492)-[docusaurus](https://github.com/facebook/docusaurus)</br>
 <!--END_SECTION:activity-->
 <!-- BLOG-POST-LIST:START -->
 💬 Blogged [Dynamic and Abstract Nginx](https://dev.to/aakhtar3/dynamic-and-abstract-nginx-497b) </br>
