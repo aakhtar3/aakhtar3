@@ -75,10 +75,10 @@
 <h2 align="center">Activity</h2>
 <!--START_SECTION:activity-->
 
-🗣 Posted [#3538](https://github.com/facebook/docusaurus/issues/3538)-[docusaurus](https://github.com/facebook/docusaurus)</br>
-💪 Opened [#3538](https://github.com/facebook/docusaurus/pull/3538)-[docusaurus](https://github.com/facebook/docusaurus)</br>
-❗️ Opened [#3537](https://github.com/facebook/docusaurus/issues/3537)-[docusaurus](https://github.com/facebook/docusaurus)</br>
-🗣 Posted [#3492](https://github.com/facebook/docusaurus/issues/3492)-[docusaurus](https://github.com/facebook/docusaurus)</br>
+❌ Closed [#34](https://github.com/jamesgeorge007/github-activity-readme/pull/34)-[github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)</br>
+❗️ Closed [#106](https://github.com/disneystreaming/automated-cloud-advisor/issues/106)-[automated-cloud-advisor](https://github.com/disneystreaming/automated-cloud-advisor)</br>
+🗣 Posted [#14](https://github.com/TheAlgorithms/Javascript/issues/14)-[Javascript](https://github.com/TheAlgorithms/Javascript)</br>
+💪 Opened [#424](https://github.com/TheAlgorithms/Javascript/pull/424)-[Javascript](https://github.com/TheAlgorithms/Javascript)</br>
 <!--END_SECTION:activity-->
 <!-- BLOG-POST-LIST:START -->
 💬 Blogged [Dynamic and Abstract Nginx](https://dev.to/aakhtar3/dynamic-and-abstract-nginx-497b) </br>
