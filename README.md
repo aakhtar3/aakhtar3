@@ -81,9 +81,9 @@
 💪 Opened [#424](https://github.com/TheAlgorithms/Javascript/pull/424)-[Javascript](https://github.com/TheAlgorithms/Javascript)</br>
 <!--END_SECTION:activity-->
 <!-- BLOG-POST-LIST:START -->
+💬 Blogged [Kali Linux on iPad](https://dev.to/aakhtar3/kali-linux-on-ipad-54gc) </br>
 💬 Blogged [Dynamic and Abstract Nginx](https://dev.to/aakhtar3/dynamic-and-abstract-nginx-497b) </br>
-💬 Blogged [Which UUID version?](https://dev.to/aakhtar3/which-uuid-version-2bb2) </br>
-💬 Blogged [Styling for GitHub README](https://dev.to/aakhtar3/styling-for-github-readme-2fmf) </br><!-- BLOG-POST-LIST:END -->
+💬 Blogged [Which UUID version?](https://dev.to/aakhtar3/which-uuid-version-2bb2) </br><!-- BLOG-POST-LIST:END -->
 </td>
 </tr></table>
 <!-- Stats -->
