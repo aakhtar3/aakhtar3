@@ -75,10 +75,10 @@
 <h2 align="center">Activity</h2>
 <!--START_SECTION:activity-->
 
+❌ Closed [#424](https://github.com/TheAlgorithms/Javascript/pull/424)-[Javascript](https://github.com/TheAlgorithms/Javascript)</br>
+❌ Closed [#336](https://github.com/abhisheknaiidu/awesome-github-profile-readme/pull/336)-[awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme)</br>
 ❌ Closed [#34](https://github.com/jamesgeorge007/github-activity-readme/pull/34)-[github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)</br>
 ❗️ Closed [#106](https://github.com/disneystreaming/automated-cloud-advisor/issues/106)-[automated-cloud-advisor](https://github.com/disneystreaming/automated-cloud-advisor)</br>
-🗣 Posted [#14](https://github.com/TheAlgorithms/Javascript/issues/14)-[Javascript](https://github.com/TheAlgorithms/Javascript)</br>
-💪 Opened [#424](https://github.com/TheAlgorithms/Javascript/pull/424)-[Javascript](https://github.com/TheAlgorithms/Javascript)</br>
 <!--END_SECTION:activity-->
 <!-- BLOG-POST-LIST:START -->
 💬 Blogged [Kali Linux on iPad](https://dev.to/aakhtar3/kali-linux-on-ipad-54gc) </br>
