@@ -75,10 +75,10 @@
 <h2 align="center">Activity</h2>
 <!--START_SECTION:activity-->
 
+🎉 Merged [#110](https://github.com/disneystreaming/automated-cloud-advisor/pull/110)-[automated-cloud-advisor](https://github.com/disneystreaming/automated-cloud-advisor)</br>
+🗣 Posted [#19](https://github.com/JRIngram/leitner/issues/19)-[leitner](https://github.com/JRIngram/leitner)</br>
+🗣 Posted [#4118](https://github.com/ethereum/ethereum-org-website/issues/4118)-[ethereum-org-website](https://github.com/ethereum/ethereum-org-website)</br>
 🗣 Posted [#17](https://github.com/Fleker/chipyard-viewer/issues/17)-[chipyard-viewer](https://github.com/Fleker/chipyard-viewer)</br>
-💪 Opened [#17](https://github.com/Fleker/chipyard-viewer/pull/17)-[chipyard-viewer](https://github.com/Fleker/chipyard-viewer)</br>
-🍴 Forked [chipyard-viewer](https://github.com/Fleker/chipyard-viewer)</br>
-🗣 Posted [#3](https://github.com/pablogonzalezz/telegram-clone/issues/3)-[telegram-clone](https://github.com/pablogonzalezz/telegram-clone)</br>
 <!--END_SECTION:activity-->
 <!-- BLOG-POST-LIST:START -->
 💬 Blogged [Kali Linux on iPad](https://dev.to/aakhtar3/kali-linux-on-ipad-54gc) </br>
