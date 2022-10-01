@@ -75,10 +75,10 @@
 <h2 align="center">Activity</h2>
 <!--START_SECTION:activity-->
 
+❗️ Closed [#1094](https://github.com/neetcode-gh/leetcode/issues/1094)-[leetcode](https://github.com/neetcode-gh/leetcode)</br>
+🗣 Posted [#1094](https://github.com/neetcode-gh/leetcode/issues/1094)-[leetcode](https://github.com/neetcode-gh/leetcode)</br>
 🎉 Merged [#1182](https://github.com/neetcode-gh/leetcode/pull/1182)-[leetcode](https://github.com/neetcode-gh/leetcode)</br>
 💪 Opened [#1182](https://github.com/neetcode-gh/leetcode/pull/1182)-[leetcode](https://github.com/neetcode-gh/leetcode)</br>
-🎉 Merged [#1181](https://github.com/neetcode-gh/leetcode/pull/1181)-[leetcode](https://github.com/neetcode-gh/leetcode)</br>
-💪 Opened [#1181](https://github.com/neetcode-gh/leetcode/pull/1181)-[leetcode](https://github.com/neetcode-gh/leetcode)</br>
 <!--END_SECTION:activity-->
 <!-- BLOG-POST-LIST:START -->
 💬 Blogged [Kali Linux on iPad](https://dev.to/aakhtar3/kali-linux-on-ipad-54gc) </br>
