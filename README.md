@@ -81,9 +81,9 @@
 🎉 Merged [#1582](https://github.com/neetcode-gh/leetcode/pull/1582)-[leetcode](https://github.com/neetcode-gh/leetcode)</br>
 <!--END_SECTION:activity-->
 <!-- BLOG-POST-LIST:START -->
+💬 Blogged [Fast Ethernet -> Gigabit Ethernet](https://dev.to/aakhtar3/fast-ethernet-gigabit-ethernet-8cc) </br>
 💬 Blogged [Kali Linux on iPad](https://dev.to/aakhtar3/kali-linux-on-ipad-54gc) </br>
-💬 Blogged [Dynamic and Abstract Nginx](https://dev.to/aakhtar3/dynamic-and-abstract-nginx-497b) </br>
-💬 Blogged [Which UUID version?](https://dev.to/aakhtar3/which-uuid-version-2bb2) </br><!-- BLOG-POST-LIST:END -->
+💬 Blogged [Dynamic and Abstract Nginx](https://dev.to/aakhtar3/dynamic-and-abstract-nginx-497b) </br><!-- BLOG-POST-LIST:END -->
 </td>
 </tr></table>
 <!-- Stats -->
