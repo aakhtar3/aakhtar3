@@ -75,10 +75,10 @@
 <h2 align="center">Activity</h2>
 <!--START_SECTION:activity-->
 
+💫 Liked [boilerplates](https://github.com/ChristianLempa/boilerplates)</br>
 🗣 Posted [#2114](https://github.com/neetcode-gh/leetcode/issues/2114)-[leetcode](https://github.com/neetcode-gh/leetcode)</br>
 💫 Liked [pfSense-Dashboard](https://github.com/VictorRobellini/pfSense-Dashboard)</br>
 🎉 Merged [#1596](https://github.com/neetcode-gh/leetcode/pull/1596)-[leetcode](https://github.com/neetcode-gh/leetcode)</br>
-🎉 Merged [#1597](https://github.com/neetcode-gh/leetcode/pull/1597)-[leetcode](https://github.com/neetcode-gh/leetcode)</br>
 <!--END_SECTION:activity-->
 <!-- BLOG-POST-LIST:START -->
 💬 Blogged [Build Networks with VLANs](https://dev.to/aakhtar3/build-networks-with-vlans-1ldd) </br>
