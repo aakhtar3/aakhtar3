@@ -81,9 +81,9 @@
 🎉 Merged [#1596](https://github.com/neetcode-gh/leetcode/pull/1596)-[leetcode](https://github.com/neetcode-gh/leetcode)</br>
 <!--END_SECTION:activity-->
 <!-- BLOG-POST-LIST:START -->
+💬 Blogged [System Design](https://dev.to/aakhtar3/system-design-26dl) </br>
 💬 Blogged [Build Networks with VLANs](https://dev.to/aakhtar3/build-networks-with-vlans-1ldd) </br>
-💬 Blogged [Fast Ethernet -> Gigabit Ethernet](https://dev.to/aakhtar3/fast-ethernet-gigabit-ethernet-8cc) </br>
-💬 Blogged [Kali Linux on iPad](https://dev.to/aakhtar3/kali-linux-on-ipad-54gc) </br><!-- BLOG-POST-LIST:END -->
+💬 Blogged [Fast Ethernet -> Gigabit Ethernet](https://dev.to/aakhtar3/fast-ethernet-gigabit-ethernet-8cc) </br><!-- BLOG-POST-LIST:END -->
 </td>
 </tr></table>
 <!-- Stats -->
