@@ -81,9 +81,9 @@
 🎉 Merged [#1596](https://github.com/neetcode-gh/leetcode/pull/1596)-[leetcode](https://github.com/neetcode-gh/leetcode)</br>
 <!--END_SECTION:activity-->
 <!-- BLOG-POST-LIST:START -->
+💬 Blogged [Build multi-cloud & hybrid networks](https://dev.to/aakhtar3/build-multi-cloud-hybrid-networks-45jj) </br>
 💬 Blogged [Stack Cloud/Network/Security Certifications](https://dev.to/aakhtar3/stack-cloudnetworksecurity-certifications-2pa6) </br>
-💬 Blogged [System Design](https://dev.to/aakhtar3/system-design-26dl) </br>
-💬 Blogged [Build Networks with VLANs](https://dev.to/aakhtar3/build-networks-with-vlans-1ldd) </br><!-- BLOG-POST-LIST:END -->
+💬 Blogged [System Design](https://dev.to/aakhtar3/system-design-26dl) </br><!-- BLOG-POST-LIST:END -->
 </td>
 </tr></table>
 <!-- Stats -->
