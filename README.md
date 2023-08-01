@@ -75,10 +75,10 @@
 <h2 align="center">Activity</h2>
 <!--START_SECTION:activity-->
 
-🎉 Merged [#2648](https://github.com/neetcode-gh/leetcode/pull/2648)-[leetcode](https://github.com/neetcode-gh/leetcode)</br>
-🎉 Merged [#2515](https://github.com/neetcode-gh/leetcode/pull/2515)-[leetcode](https://github.com/neetcode-gh/leetcode)</br>
-🎉 Merged [#2535](https://github.com/neetcode-gh/leetcode/pull/2535)-[leetcode](https://github.com/neetcode-gh/leetcode)</br>
-🎉 Merged [#2582](https://github.com/neetcode-gh/leetcode/pull/2582)-[leetcode](https://github.com/neetcode-gh/leetcode)</br>
+🎉 Merged [#2620](https://github.com/neetcode-gh/leetcode/pull/2620)-[leetcode](https://github.com/neetcode-gh/leetcode)</br>
+🎉 Merged [#2591](https://github.com/neetcode-gh/leetcode/pull/2591)-[leetcode](https://github.com/neetcode-gh/leetcode)</br>
+🎉 Merged [#2557](https://github.com/neetcode-gh/leetcode/pull/2557)-[leetcode](https://github.com/neetcode-gh/leetcode)</br>
+🎉 Merged [#2713](https://github.com/neetcode-gh/leetcode/pull/2713)-[leetcode](https://github.com/neetcode-gh/leetcode)</br>
 <!--END_SECTION:activity-->
 <!-- BLOG-POST-LIST:START -->
 💬 Blogged [Multi-thread with node.js](https://dev.to/aakhtar3/multi-thread-with-nodejs-1b7b) </br>
