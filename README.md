@@ -81,9 +81,9 @@
 🎉 Merged [#2713](https://github.com/neetcode-gh/leetcode/pull/2713)-[leetcode](https://github.com/neetcode-gh/leetcode)</br>
 <!--END_SECTION:activity-->
 <!-- BLOG-POST-LIST:START -->
+💬 Blogged [Earn Max Leetcode Coins](https://dev.to/aakhtar3/earn-max-leetcode-coins-2jdf) </br>
 💬 Blogged [Multi-thread with node.js](https://dev.to/aakhtar3/multi-thread-with-nodejs-1b7b) </br>
-💬 Blogged [Build multi-cloud & hybrid networks](https://dev.to/aakhtar3/build-multi-cloud-hybrid-networks-45jj) </br>
-💬 Blogged [Stack Cloud/Network/Security Certifications](https://dev.to/aakhtar3/stack-cloudnetworksecurity-certifications-2pa6) </br><!-- BLOG-POST-LIST:END -->
+💬 Blogged [Build multi-cloud & hybrid networks](https://dev.to/aakhtar3/build-multi-cloud-hybrid-networks-45jj) </br><!-- BLOG-POST-LIST:END -->
 </td>
 </tr></table>
 <!-- Stats -->
