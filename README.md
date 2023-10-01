@@ -75,10 +75,10 @@
 <h2 align="center">Activity</h2>
 <!--START_SECTION:activity-->
 
-🎉 Merged [#2620](https://github.com/neetcode-gh/leetcode/pull/2620)-[leetcode](https://github.com/neetcode-gh/leetcode)</br>
-🎉 Merged [#2591](https://github.com/neetcode-gh/leetcode/pull/2591)-[leetcode](https://github.com/neetcode-gh/leetcode)</br>
-🎉 Merged [#2557](https://github.com/neetcode-gh/leetcode/pull/2557)-[leetcode](https://github.com/neetcode-gh/leetcode)</br>
-🎉 Merged [#2713](https://github.com/neetcode-gh/leetcode/pull/2713)-[leetcode](https://github.com/neetcode-gh/leetcode)</br>
+🎉 Merged [#2624](https://github.com/neetcode-gh/leetcode/pull/2624)-[leetcode](https://github.com/neetcode-gh/leetcode)</br>
+🎉 Merged [#2606](https://github.com/neetcode-gh/leetcode/pull/2606)-[leetcode](https://github.com/neetcode-gh/leetcode)</br>
+🎉 Merged [#2621](https://github.com/neetcode-gh/leetcode/pull/2621)-[leetcode](https://github.com/neetcode-gh/leetcode)</br>
+🎉 Merged [#2619](https://github.com/neetcode-gh/leetcode/pull/2619)-[leetcode](https://github.com/neetcode-gh/leetcode)</br>
 <!--END_SECTION:activity-->
 <!-- BLOG-POST-LIST:START -->
 💬 Blogged [Earn Max Leetcode Coins](https://dev.to/aakhtar3/earn-max-leetcode-coins-2jdf) </br>
